@@ -1,0 +1,229 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: gilroyextrabold, sans-serif;
+}
+body {
+    background-color: #fffb83;
+}
+.row {
+    max-width: 100%;
+}
+
+/*top nav region*/
+.title-bar {
+    padding: 1.5rem;
+}
+.title-bar.sticky {
+    padding-top: 35px;
+    background-color: #fffb83;
+}
+.title-bar.sticky.is-at-top.is-stuck {
+    background-color: rgba(255, 255, 255, .75);
+}
+
+.header-logo {
+    display: inline-block;
+    margin-left: 75px;
+}
+.main-menu {
+    display: inline-block;
+    float: right;
+    margin-right: 50px;
+}
+.menu-links {
+    color: #272223;
+    font-size: 20px;
+}
+.menu-links:hover {
+    color: #ffaf00;
+}
+
+.section-header {
+    font-size: 144px;
+    line-height: 144px;
+    text-align: center;
+    letter-spacing: -7px;
+}
+
+.section-header span {
+    display: block;
+    line-height: 109px;
+    /*margin-bottom: 27px;*/
+}
+.banner-text {
+    max-width: 607px;
+    margin: 27px auto 0;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+}
+.date {
+    font-size: 48px;
+    letter-spacing: -1px;
+    text-align: center;
+    margin: 18px auto 0;
+    line-height: 0.73;
+}
+
+.button-container {
+    margin-top: 42px;
+    text-align: center;
+
+}
+.button {
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    border-radius: 100px;
+}
+.button:hover {
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .2);
+}
+.image-container {
+    text-align: center;
+}
+.summit-section {
+    background-color: #fffb83;
+    color: #6e11cc;
+}
+.summit-section img {
+    width: 158px;
+    height: 119px;
+}
+.summit-section .button-container {
+    margin-bottom: 132px;
+}
+.session-submit,
+.session-submit:hover {
+    background-color: #fff;
+    color: #6e11cc;
+}
+.about-section {
+    background: url("../images/about-b-g@2x.jpg") bottom center no-repeat ;
+
+}
+.about-section .section-header {
+    color: #fffb83;
+    margin-top: 350px;
+}
+.about-section .banner-text {
+    color: #fff;
+    margin-bottom: 290px;
+}
+
+.join-section {
+    background-color: #7bf5ff;
+    color: #272223;
+}
+.join-section .button-container {
+    margin-bottom: 132px;
+}
+.join-section .image-container {
+    margin: 155px 0 -15px;
+}
+.join-button,
+.join-button:hover {
+    background-color: #fff;
+    color: #272223;
+}
+
+.sponsor-section {
+    background-color: #fff;
+}
+.sponsor-section .section-header {
+    font-size: 72px;
+    letter-spacing: -3.5px;
+    color: #89e376;
+    margin-top: 48px;
+}
+.sponsor-section .sponsors {
+    text-align: center;
+}
+.sponsor-button ,
+.sponsor-button:hover {
+    background-color: #89e376;
+}
+.sponsor-section .button-container {
+    margin-bottom: 119px;
+}
+.sponsors img {
+    margin: 10px;
+}
+
+.schedule-button ,
+.schedule-button:hover {
+    background-color: #6e11cc;
+}
+
+footer {
+    background-color: #6e11cc;
+    text-align: center;
+}
+.footer-logo {
+    padding: 37px 0 26px 0;
+}
+.code-conduct,
+.code-conduct:hover {
+    font-size: 12px;
+    color: #fff;
+}
+.social-media-links {
+    padding: 23px 0 37px 0;
+}
+.social-icon {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+@media screen and (max-width: 768px) {
+    .main-menu {
+        display: none;
+    }
+}
+
+.sessions {
+    max-width: 900px;
+    margin: 27px auto 0;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: -0.4px;
+    color: #5f5f5f;
+}
+.sessions-section h2.section-header {
+    font-size: 72px;
+    letter-spacing: -3.5px;
+    margin-top: 48px;
+    color: #6e11cc;
+}
+.sessions h3 {
+    line-height: normal;
+    color: #6e11cc;
+    font-size: 2rem;
+}
+.sessions h3.day {
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    background-color: #6e11cc;;
+    color: #FFF;
+    margin-bottom: 30px;
+}
+.sessions h4 {
+    line-height: normal;
+    color: #000000;
+}
+.sessions time {
+    display: block;
+    width: 50%;
+    margin: auto;
+    line-height: normal;
+    font-size: 2rem;
+    background-color: #50a83e;
+    color: #FFF;
+    margin-bottom: 20px;
+}

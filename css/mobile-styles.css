@@ -1,0 +1,155 @@
+.mobile-menu, .menuicon span, label.menuicon, #hamburger {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    .section-header {
+        font-size: 110px;
+    }
+    .header-logo {
+        position: fixed;
+        margin-left: 10px;
+    }
+    .title-bar.sticky.is-at-top.is-stuck {
+        background-color: transparent;
+    }
+    .title-bar.sticky {
+        background-color: transparent;
+        position: fixed;
+        z-index: 5;
+    }
+    /* Mobile menu overlay*/
+    #hamburger:checked ~ .mobile-menu {
+        background-color: rgba(123, 245, 255, 0.9);
+        z-index: 1;
+        /*transform: translateY(0%);*/
+    }
+    #hamburger:checked ~ .mobile-menu .menu {
+        transform: perspective(600px) rotateX(0deg) translateY(0);
+        opacity: 1;
+        visibility: visible;
+        pointer-events: all;
+    }
+    .mobile-menu {
+        display: block;
+        background: none;
+        background-color: transparent;
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        transition: 0.2s, 0.4s, background-color, ease-in-out;
+        z-index: -1;
+        /*transform: translateY(-100%);*/
+    }
+    .mobile-menu .menu {
+        top: 200px;
+        position: relative;
+        opacity: 0;
+        transition: 0.2s, 0.5s, transform, opactiy, ease-in-out;
+        transform: perspective(600px) rotateX(35deg) translateY(-50%);
+        visibility: hidden;
+        pointer-events: none;
+    }
+
+    .mobile-menu li {
+        display: block;
+        opacity: 1;
+        width: 100%;
+    }
+    .mobile-menu li:hover {
+        background: rgba(255,255,255, 1);
+    }
+    .mobile-menu li a:hover {
+        color: black;
+    }
+    .mobile-menu a {
+        color: white;
+        text-align: center;
+        font-size: 3.5em;
+        transition: 0.1s, 0.2s, all, ease-in-out;
+    }
+
+    /* Hamburger icon */
+
+    #hamburger {
+        display: none;
+    }
+    label.menuicon {
+        position: fixed;
+        top: 40px;
+        right: 10px;
+        display: block;
+        cursor: pointer;
+        height: 21px;
+        width: 25px;
+        z-index: 99;
+    }
+    .menuicon span {
+        display: block;
+        top: 8px;
+        width: 25px;
+        height: 5px;
+        background-color: #000;
+        position: relative;
+        -webkit-transition-duration: 0;
+        -moz-transition-duration: 0;
+        -ms-transition-duration: 0;
+        -o-transition-duration: 0;
+        transition-duration: 0;
+    }
+    .menuicon span::after, .menuicon span::before {
+        display: block;
+        content: '';
+        position: absolute;
+        width: 25px;
+        height: 5px;
+        background-color: #000;
+        -webkit-transition-property: margin, -webkit-transform;
+        -webkit-transition-duration: 0.2s;
+        -moz-transition-duration: 0.2s;
+        -ms-transition-duration: 0.2s;
+        -o-transition-duration: 0.2s;
+        transition-duration: 0.2s;
+        -webkit-transition-delay: 0.2s, 0;
+        -moz-transition-delay: 0.2s, 0;
+        -ms-transition-delay: 0.2s, 0;
+        -o-transition-delay: 0.2s, 0;
+        transition-delay: 0.2s, 0;
+    }
+    .menuicon span::before {
+        margin-top: -8px;
+    }
+    .menuicon span::after {
+        margin-top: 8px;
+    }
+
+    /*#hamburger:checked ~ .menuicon {*/
+        /*position: fixed;*/
+    /*}*/
+    #hamburger:checked ~ .menuicon span {
+        background-color: transparent;
+    }
+    #hamburger:checked ~ .menuicon span::before, #hamburger:checked ~ .menuicon span::after {
+        margin-top: 0px;
+        -webkit-transition-delay: 0, 0.2s;
+        -moz-transition-delay: 0, 0.2s;
+        -ms-transition-delay: 0, 0.2s;
+        -o-transition-delay: 0, 0.2s;
+        transition-delay: 0, 0.2s;
+    }
+    #hamburger:checked ~ .menuicon span::before {
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    #hamburger:checked ~ .menuicon span::after {
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+    }
+}
