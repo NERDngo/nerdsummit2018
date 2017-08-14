@@ -47,10 +47,10 @@ The Organizers of NERDSummit can be contacted at contact@nerdsummit.org, or by f
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
-Email address for organizers: contact@nerdsummit.org
-Phone number for organizers: 413-424-NERD
-Phone number for hotel/venue: 877-822-2110
-Local law enforcement: 413-259-3000
-Local sexual assault hot line: 413-687-4037 see also: On-site Advocacy Services
-Local emergency and non-emergency medical: 911
-Local taxi company: 413-253-7330
+* Email address for organizers: contact@nerdsummit.org
+* Phone number for organizers: 413-424-NERD
+* Phone number for hotel/venue: 877-822-2110
+* Local law enforcement: 413-259-3000
+* Local sexual assault hot line: 413-687-4037 see also: On-site Advocacy Services
+* Local emergency and non-emergency medical: 911
+* Local taxi company: 413-253-7330
