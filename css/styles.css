@@ -37,7 +37,7 @@ a.pink-text {
     color: #db5e8f;
 }
 .menu-links.pink-text {
-    color: #db5e8f;
+    color: #db5e8f !important;
 }
 .pink-background  {
     background-color: #db5e8f;
