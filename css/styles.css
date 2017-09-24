@@ -36,10 +36,9 @@ purple (D): #6E11D0
 a.pink-text {
     color: #db5e8f;
 }
-.menu-links a.pink-text {
+.menu-links.pink-text a {
     color: #db5e8f;
 }
-
 .pink-background  {
     background-color: #db5e8f;
     color: #fff;
