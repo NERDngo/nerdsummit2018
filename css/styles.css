@@ -8,13 +8,52 @@ h5,
 h6 {
     font-family: gilroyextrabold, sans-serif;
 }
+
+/*
+colors for reference from NERD logo
+orange (N): #f0852d
+green (E): #50a83e
+pink (R): #db5e8f
+purple (D): #6E11D0
+*/
+.orange-text  {
+    color: #f0852d;
+}
+.orange-background  {
+    background-color: #f0852d;
+    color: #fff;
+}
+.green-text  {
+    color: #50a83e;
+}
+.green-background  {
+    background-color: #50a83e;
+    color: #fff;
+}
+.pink-text  {
+    color: #db5e8f;
+}
+.pink-background  {
+    background-color: #db5e8f;
+    color: #fff;
+}
+.purple-text  {
+    color: #6E11D0;
+}
+.purple-background  {
+    background-color: #6E11D0;
+    color: #fff;
+}
+
 body {
     background-color: #fffb83;
 }
 .row {
     max-width: 100%;
 }
-
+.vertical-spacer {
+    height: 30px;
+}
 /*top nav region*/
 .title-bar {
     padding: 1.5rem;
@@ -100,9 +139,15 @@ body {
 }
 .session-submit,
 .session-submit:hover {
-    background-color: #fff;
-    color: #6e11cc;
+    background-color: #6E11D0;
+    color: #ffffff;
 }
+.donate-submit ,
+.donate-submit:hover {
+    color: #ffffff;
+    background-color: #db5e8f;
+}
+
 .about-section {
     background: url("../images/about-b-g@2x.jpg") bottom center no-repeat ;
 
