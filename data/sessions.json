@@ -5,6 +5,7 @@
       "day": "Saturday",
       "start": "11:00AM",
       "end": "11:45AM",
+      "room": "145",
       "speaker": "Alfred Nutile",
       "description": "This session will show how to get started with Laravel, the most popular PHP framework in 2015 https://www.sitepoint.com/best-php-framework-2015-sitepoint-survey-results/ Built using many Symfony components you will get a look into a modern workflow that most frameworks use today. I will cover install, routing, themeing, testing, and deploying. Many of the examples can be seen in my Laravel Cookbook https://www.packtpub.com/web-development/laravel-5x-cookbook so you will have a working app, repository of real code and digital instructions to help prepare for this session or use for followup. This session will be best for people familiar with composer, and Object Oriented Programming."
     },
@@ -13,6 +14,7 @@
       "day": "Saturday",
       "start": "1:00PM",
       "end": "1:45PM",
+      "room": "245",
       "speaker": "Pete Johanson",
       "description": "Elm offers a drastically different approach to developing web applications. Elm is a typed functional programming language the compiles to JavaScript, allowing web applications to be written without runtime errors and in a side-effect-free 'Elm Architecture' approach. Features such as type checking, the use of the Maybe union type instead of 'null' or 'undefined', and helpful error messages make Elm a powerful, easy and delightful to use language and framework.This session will use a simple web app to introduce core Elm concepts of types, 'update' and 'view' functions, and the Elm Architecture. From there we will cover more advanced topics such as commands, subscriptions, and JSON/JavaScript interoperability."
     }
@@ -23,6 +25,7 @@
       "day": "Sunday",
       "start": "10:00AM",
       "end": "10:45AM",
+      "room": "145",
       "speaker": "Rick Hood",
       "description": "Introduction to Drupal starting with the basics: content types, fields, taxonomy, views, themes, modules, etc. This session is not just for beginner developers but also for non-developers who just want to better understand Drupal and content management systems in general. A contact management website will be built to show how Drupal can be used to build much more than just a blog or basic website."
     },
@@ -31,6 +34,7 @@
       "day": "Sunday",
       "start": "2:00PM",
       "end": "2:45PM",
+      "room": "245",
       "speaker": "Anne Merritt",
       "description": "Instructors and/or club moderators looking get students excited about learning to code will be able to walk away with all materials and the support needed to get started with Scratch Programming. Scratch is an online platform created by M.I.T. where students use building blocks of code to create games, animated stories and more. Students exercise their imagination, their ability to think systematically and collaborate with other programmers. No prior experience necessary (k-12"
     }
