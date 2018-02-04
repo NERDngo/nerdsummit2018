@@ -30,7 +30,7 @@ loadJSON(function(response) {
             session.className = 'session';
             session.innerHTML =
                 '<div class="top">' +
-                '<div class="time">' + start + ' - ' + end + '<img src="images/lil-nerdy.png"></div>' +
+                '<div class="time">' + start + ' - ' + end + '</div>' +
                 '<div class="title">' + '<h4 class="name">' + name + '</h4>' + '</div>' +
                 '<h5 class="speaker" >' + speaker + '</h5>' +
                 '<p class="room" >Room: ' + room + ' | ' + type + '</p>' +
