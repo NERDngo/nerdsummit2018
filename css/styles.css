@@ -305,6 +305,7 @@ Purple light    #8302ee
 .session {
     margin-top: 15px;
     width: 100%;
+    margin-bottom: 10px;
 }
 @media (min-width: 960px) {
     .session {
@@ -317,7 +318,7 @@ Purple light    #8302ee
     }
 }
 .session .top {
-    /*min-height: 300px;*/
+    margin-bottom: 10px;
 }
 .session .top,
 .session .info {
@@ -338,6 +339,8 @@ Purple light    #8302ee
 .session .speaker,
 .session .room {
     color: #000000;
+    margin: 0px;
+    padding: 0px;
 }
 
 .session .info {
@@ -403,7 +406,7 @@ Purple light    #8302ee
     line-height: normal;
     font-size: 1.5rem;
     color: #FFF;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     text-align: center;
 }
 .sessions .saturday .time {
