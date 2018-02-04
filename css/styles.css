@@ -1,3 +1,16 @@
+/*
+NERD Colors
+Green           #5ccf18
+Green light     #a1db7e
+Pink            #ff3369
+Pink light      #e0699a
+Purple          #500092
+Purple light    #8302ee
+
+*/
+
+
+
 html,
 body,
 h1,
@@ -50,6 +63,7 @@ a.pink-text {
     background-color: #6E11D0;
     color: #fff;
 }
+
 
 body {
     background-color: #fffb83;
@@ -236,48 +250,164 @@ footer {
     }
 }
 
+/* #sessions is the div that sessions are inside of */
+
+/*
+NERD Colors
+Green           #5ccf18
+Green light     #a1db7e
+Pink            #ff3369
+Pink light      #e0699a
+Purple          #500092
+Purple light    #8302ee
+
+*/
+#sessions {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
 .sessions {
-    max-width: 900px;
+    width: 80%;
     margin: 27px auto 0;
     text-align: center;
     font-size: 18px;
     letter-spacing: -0.4px;
     color: #5f5f5f;
 }
+
+.sessions .timeslot {
+    width: 100%;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+.sessions .timeslot #Saturday,
+.sessions .timeslot #Sunday {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    /*padding: 0 20px 0 20px;*/
+}
+
+.session {
+    margin-top: 15px;
+    width: 100%;
+}
+@media (min-width: 960px) {
+    .session {
+        width: 50%;
+    }
+}
+@media (min-width: 1200px) {
+    .session {
+        width: 33.3333%;
+    }
+}
+.session .top {
+    /*min-height: 300px;*/
+}
+.session .top,
+.session .info {
+    width:95%;
+    margin: auto;
+    text-align: left;
+}
+.session .title {
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+}
+.session .name {
+    display: inline-block;
+    width: 100%;
+    text-align: left;
+}
+.session .speaker,
+.session .room {
+    color: #000000;
+}
+
+.session .info {
+    background-color: #FFFFFF;
+    padding: 5px;
+    display: none;
+}
+
+.more-info {
+    color: #000000;
+}
+
+.saturday .inner {
+    background-color: #a1db7e;
+    margin: 0 10px 0 10px;
+}
+.sunday .inner {
+    background-color: #e0699a;
+    margin: 0 10px 0 10px;
+}
+
 .sessions-section h2.section-header {
     font-size: 72px;
     letter-spacing: -3.5px;
     margin-top: 48px;
-    color: #6e11cc;
+    color: #500092;
 }
 .sessions h3 {
     line-height: normal;
     color: #6e11cc;
     font-size: 2rem;
 }
+
 .sessions h3.day {
     display: block;
     width: 100%;
     margin: auto;
     padding: 10px;
-    background-color: #6e11cc;;
     color: #FFF;
-    margin-bottom: 30px;
 }
+.sessions .saturday {
+    background-color: #5ccf18;
+}
+.sessions .sunday {
+    background-color: #ff3369;
+    margin-top: 20px;
+}
+.sessions .saturday h3.day {
+    background-color: #5ccf18;
+}
+.sessions .sunday h3.day {
+    background-color: #ff3369;
+}
+
 .sessions h4 {
     line-height: normal;
     color: #000000;
 }
-.sessions time {
+.sessions .time {
     display: block;
-    width: 50%;
+    width: 100%;
     margin: auto;
     line-height: normal;
-    font-size: 2rem;
-    background-color: #50a83e;
+    font-size: 1.5rem;
     color: #FFF;
     margin-bottom: 20px;
 }
+.sessions .saturday .time {
+    background-color: #5ccf18;
+}
+.sessions .sunday .time {
+    background-color: #ff3369;
+}
+.session .time img {
+    width: 50px;
+    float: right;
+    margin-top: -21px;
+}
+
+
+
 
 /*feedback section */
 .feedback-section {
@@ -294,5 +424,5 @@ footer {
 }
 
 .center {
-text-align: center;    
+    text-align: center;
 }
