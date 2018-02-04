@@ -20,7 +20,6 @@ loadJSON(function(response) {
     for (var key in data) {
         for (var i = 0; i < data[key].length; i++) {
             var name = data[key][i].name;
-            var day = data[key][i].day;
             var start = data[key][i].start;
             var end = data[key][i].end;
             var speaker = data[key][i].speaker;

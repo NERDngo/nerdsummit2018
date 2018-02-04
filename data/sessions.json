@@ -2,7 +2,6 @@
   "Saturday": [
     {
       "name": "Session A",
-      "day": "Saturday",
       "start": "10:00AM",
       "end": "10:45AM",
       "room": "145",
@@ -12,7 +11,6 @@
     },
     {
       "name": "Session B",
-      "day": "Saturday",
       "start": "11:00AM",
       "end": "11:45PM",
       "room": "245",
@@ -22,7 +20,6 @@
     },
     {
       "name": "Session C",
-      "day": "Saturday",
       "start": "1:00PM",
       "end": "1:45PM",
       "room": "321",
@@ -34,7 +31,6 @@
   "Sunday": [
     {
       "name": "Session A",
-      "day": "Sunday",
       "start": "10:00AM",
       "end": "10:45AM",
       "room": "145",
@@ -44,7 +40,6 @@
     },
     {
       "name": "Session B",
-      "day": "Sunday",
       "start": "11:00AM",
       "end": "11:45PM",
       "room": "245",
@@ -54,7 +49,6 @@
     },
     {
       "name": "Session C",
-      "day": "Sunday",
       "start": "1:00PM",
       "end": "1:45PM",
       "room": "321",
