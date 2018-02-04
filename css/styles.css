@@ -250,6 +250,18 @@ footer {
     }
 }
 
+.location {
+    color: #500092;
+    font-size: 1.2rem;
+}
+.location a {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    display: inline-block;
+    background-color: #500092;
+    padding: 0px 5px 0px 5px;
+}
+
 /* #sessions is the div that sessions are inside of */
 
 /*
