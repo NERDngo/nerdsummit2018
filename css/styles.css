@@ -272,8 +272,12 @@ Pink            #ff3369
 Pink light      #e0699a
 Purple          #500092
 Purple light    #8302ee
-
 */
+
+.purple {
+    color: #500092;
+}
+
 #sessions {
     display: flex;
     flex-flow: row;
