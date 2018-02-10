@@ -25,15 +25,17 @@ loadJSON(function(response) {
             var speaker = data[key][i].speaker;
             var type = data[key][i].type;
             var room = data[key][i].room;
+            var tags = data[key][i].tags;
             var description = data[key][i].description;
             var session = document.createElement('div');
             session.className = 'session';
             session.innerHTML =
                 '<div class="top">' +
                 '<div class="time">' + start + ' - ' + end + '</div>' +
+                '<div class="room">Room: ' +room + '</div>' +
                 '<div class="title">' + '<h4 class="name">' + name + '</h4>' + '</div>' +
                 '<h5 class="speaker" >' + speaker + '</h5>' +
-                '<p class="room" >Room: ' + room + ' | ' + type + '</p>' +
+                '<p class="tags" >' + type + ' | tags: ' + tags + '</p>' +
                 '</div>' +
                 '<div class="info">' +
                 '<p>' + description + '</p>' +

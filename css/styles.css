@@ -321,7 +321,6 @@ Purple light    #8302ee
 .session {
     margin-top: 15px;
     width: 100%;
-    margin-bottom: 10px;
 }
 @media (min-width: 960px) {
     .session {
@@ -351,6 +350,7 @@ Purple light    #8302ee
     display: inline-block;
     width: 100%;
     text-align: left;
+    margin-top: 15px;
 }
 .session .speaker,
 .session .room {
@@ -422,7 +422,8 @@ Purple light    #8302ee
     line-height: normal;
     font-size: 1.5rem;
     color: #FFF;
-    margin-bottom: 10px;
+    padding: 10px 0 10px 0;
+    /*margin-bottom: 10px;*/
     text-align: center;
 }
 .sessions .saturday .time {
@@ -442,6 +443,29 @@ img.lil-nerdy-sessions {
     float: right;
     margin-top: -85px;
     margin-right: 10px;
+}
+
+.session .room {
+    width: 200px;
+    margin: auto;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.session .room {
+    width: 150px;
+    margin: auto;
+    padding: 0px 10px 5px 10px;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: -8px;
+}
+.saturday .room {
+    background-color: #5ccf18
+}
+.sunday .room {
+    background-color: #ff3369
 }
 
 
