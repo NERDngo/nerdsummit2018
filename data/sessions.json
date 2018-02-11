@@ -10,11 +10,11 @@
       "day": "Saturday",
       "start": "8:30AM",
       "end": "9:15AM",
-      "room": "Reception",
+      "room": "135",
       "type": "All",
       "audience": "",
       "tags": "Good morning!",
-      "description": "Assorted Pastries\nSeasonal Hand Fruit\nFruit Juices and Water\nHot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
+      "description": "Assorted Pastries<br>Seasonal Hand Fruit<br>Fruit Juices and Water<br>Hot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
     },
     {
       "id": null,
@@ -46,7 +46,7 @@
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "project management, drupal, migration",
-      "description": "Relieve Symptoms Now!\n\nAre you struggling with end of life care?  Has your website left you feeling sad, prickly, and itching to upgrade?  \n\nThere is help.\n\nWhile not quite a case study, we will speak through the following as if it were:\n\nHow we use Drupal\n�\tOur challenges, expressed as symptoms, anecdotes, and relatable experiences\n\nA timeline of our journey\n�\tRedefining fixes and milestones\n�\tHow core business decisions and organizational structure were impacted\n\nLearnable moments\n�\tKey collaborations with wonderful vendors, industry experts and the Drupal community\n\nAddressing barriers \n�\tHow we made the incredible leap in funding, structure, and confidence\n\nThis is not just your normal prescriptive session filled with best practices and lists.  Join us and learn more about how you can cure your Drupal 8 deficiency today(ish)!\n"
+      "description": "Relieve Symptoms Now!<br><br>Are you struggling with end of life care?  Has your website left you feeling sad, prickly, and itching to upgrade?  <br><br>There is help.<br><br>While not quite a case study, we will speak through the following as if it were:<br><br>How we use Drupal<br><br>- Our challenges, expressed as symptoms, anecdotes, and relatable experiences<br><br>A timeline of our journey<br>- Redefining fixes and milestones<br>- How core business decisions and organizational structure were impacted<br><br>Learnable moments<br>- Key collaborations with wonderful vendors, industry experts and the Drupal community<br><br>Addressing barriers <br>- How we made the incredible leap in funding, structure, and confidence<br><br>This is not just your normal prescriptive session filled with best practices and lists.  Join us and learn more about how you can cure your Drupal 8 deficiency today(ish)!<br>"
     },
     {
       "id": 37,
@@ -62,7 +62,7 @@
       "type": "All",
       "audience": "All",
       "tags": "code-reviews, teamwork",
-      "description": "Are code reviews a source of tension on your team? Do they lead to conflict, bikeshedding, or wasted time?\n\nMost of the discussion we hear about code reviews is technical. We focus myopically on minimizing cost and maximizing bug discoveries. But reviews are as much a social exercise as a technical one. They're an opportunity for teammates to share knowledge and bond through collaboration. That can't happen if people are strangling each other over where to place the curly braces.\n\nIn this talk, you�ll learn practical techniques your team can use to improve communication and minimize conflict during code reviews. I�ll talk about:\n\n* Reducing human effort of reviews through automation\n* Increasing your team�s review velocity\n* Giving sincere praise\n* Framing discussions for constructive debate\n* Mitigating stalemates"
+      "description": "Are code reviews a source of tension on your team? Do they lead to conflict, bikeshedding, or wasted time?<br><br>Most of the discussion we hear about code reviews is technical. We focus myopically on minimizing cost and maximizing bug discoveries. But reviews are as much a social exercise as a technical one. They're an opportunity for teammates to share knowledge and bond through collaboration. That can't happen if people are strangling each other over where to place the curly braces.<br><br>In this talk, you�ll learn practical techniques your team can use to improve communication and minimize conflict during code reviews. I�ll talk about:<br><br>* Reducing human effort of reviews through automation<br>* Increasing your team�s review velocity<br>* Giving sincere praise<br>* Framing discussions for constructive debate<br>* Mitigating stalemates"
     },
     {
       "id": 75,
@@ -94,13 +94,13 @@
       "type": "All",
       "audience": "All",
       "tags": "Job market, Interviews, Tech jobs",
-      "description": "- The current job market in this area/average salaries\n- Types of jobs available/types of companies \n- The difference between W2 and Independent Contractor engagements\n- How/where to look for a job\n- Interview preparation/Interview best practices"
+      "description": "- The current job market in this area/average salaries<br>- Types of jobs available/types of companies <br>- The difference between W2 and Independent Contractor engagements<br>- How/where to look for a job<br>- Interview preparation/Interview best practices"
     },
     {
       "id": 86,
       "order": "3/17/18 10:00",
       "57": 1,
-      "name": "Scratch (kids 7+ and families)",
+      "name": "Intro to Scratch",
       "speaker": "Holyoke Codes",
       "email": "andrew@elytra.net",
       "day": "Saturday",
@@ -109,8 +109,8 @@
       "room": "325",
       "type": "Beginner",
       "audience": "",
-      "tags": "beginner",
-      "description": "Saturday 10:00 - 11:45 Scratch (kids 7+ and families)"
+      "tags": "beginner, kids 7+ and families)",
+      "description": "Learn to code with this simple, powerful visual programming environment!<br><br>With Scratch, you can program your own interactive stories, games, and animations � and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively � essential skills for life in the 21st century.<br><br>At this introductory workshop, we�ll help students create free accounts and explain the basics of sprites, costumes, and coding with visual blocks to create engaging, interactive stories. Students will learn to incorporate rich, multimedia into their projects."
     },
     {
       "id": 90,
@@ -125,8 +125,8 @@
       "room": "321",
       "type": "All",
       "audience": "",
-      "tags": "",
-      "description": "Starting a new project can be intimidating. There are so many options for frameworks, build tools, databases, and many other aspects of the project. If you want this project to be around for a while, how do you make sure you make the right choices that will stand the tests of time?  Let�s say you have a great idea and have the opportunity to start from scratch with little or no help. It could be building a new product for your employer or starting your own company. Either way, you need to make sure it will succeed and be able to grow. In this talk I will go through some of the decisions you might have to make and walk you through how you might scale it to to be a highly-available, high-performance web application."
+      "tags": "project frameworks, build tools, databases",
+      "description": "Starting a new project can be intimidating. There are so many options for frameworks, build tools, databases, and many other aspects of the project. If you want this project to be around for a while, how do you make sure you make the right choices that will stand the tests of time?  Let's say you have a great idea and have the opportunity to start from scratch with little or no help. It could be building a new product for your employer or starting your own company. Either way, you need to make sure it will succeed and be able to grow. In this talk I will go through some of the decisions you might have to make and walk you through how you might scale it to to be a highly-available, high-performance web application."
     },
     {
       "id": 20,
@@ -142,7 +142,7 @@
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "Agile, UX, Research",
-      "description": "�Teams form bad habits that they need to break�\n-Lucy Dotson\nWhen IBM started its design division, it adopted and leveraged design thinking to propel a culture of design throughout its organization. The teams on the Platform used design thinking and research to answer squad specific questions. We had very little guidance on our practices. Nor did we coordinate with our developers or product managers to triangulate our efforts to arrive at a conclusion all parties agreed with.\n \nWhile we used design thinking methodologies to bring teams together for project planning workshops, the teams consistently struggled to align on a shared vision. As deadlines approached, poorly established communication protocols broke down and misunderstandings multiplied. Our relationships suffered across design, development and product management as we each pushed our own ideas of the right path forward. Design Thinking methods alone could not help us unify towards a shared vision.\nEarly in 2017, I was tapped to spin up and lead a research team to not only open a channel with our existing customers but to also shine a light on the other data sources and practices that influence each member of the tribe. Over the year, we rethought our practices to be more inclusive of the other members of the tribe with the goal of discovering and synthesizing data from both qualitative and quantitative sources together to tighten the decision and feedback loop.  \nIn this case study, I will discuss\n-Recognize the need to defuse and reset cross-disciplinary relationships\n-Test and implement techniques for timely communication with large, cross-disciplinary non co-located teams\n-Rethink our approach to cross-team workshops for planning, facilitating, and debriefing\n-Decouple from design to bring development and product management closer\n-Discover the common desire to find, digest, and process data across the tribe"
+      "description": "\"Teams form bad habits that they need to break\"<br>-Lucy Dotson<br>When IBM started its design division, it adopted and leveraged design thinking to propel a culture of design throughout its organization. The teams on the Platform used design thinking and research to answer squad specific questions. We had very little guidance on our practices. Nor did we coordinate with our developers or product managers to triangulate our efforts to arrive at a conclusion all parties agreed with.<br> <br>While we used design thinking methodologies to bring teams together for project planning workshops, the teams consistently struggled to align on a shared vision. As deadlines approached, poorly established communication protocols broke down and misunderstandings multiplied. Our relationships suffered across design, development and product management as we each pushed our own ideas of the right path forward. Design Thinking methods alone could not help us unify towards a shared vision.<br>Early in 2017, I was tapped to spin up and lead a research team to not only open a channel with our existing customers but to also shine a light on the other data sources and practices that influence each member of the tribe. Over the year, we rethought our practices to be more inclusive of the other members of the tribe with the goal of discovering and synthesizing data from both qualitative and quantitative sources together to tighten the decision and feedback loop.  <br>In this case study, I will discuss<br>-Recognize the need to defuse and reset cross-disciplinary relationships<br>-Test and implement techniques for timely communication with large, cross-disciplinary non co-located teams<br>-Rethink our approach to cross-team workshops for planning, facilitating, and debriefing<br>-Decouple from design to bring development and product management closer<br>-Discover the common desire to find, digest, and process data across the tribe"
     },
     {
       "id": 25,
@@ -158,7 +158,7 @@
       "type": "All",
       "audience": "All",
       "tags": "devops, agile, business",
-      "description": "Who?\n-----\nBeginner / Intermediate / Advanced\n\nAll concepts will be discussed at a high level. This will be talk about code and workflow examples, but your experience level will not preclude you from gaining contextual benefit and  it is probably good for a beginner to be exposed to some of the concepts and vocabulary.\n\n* If you are a decision maker (or have or intend to influence decision making) for your agency/company\n  * CEO\n  * CTO\n  * Lead Developer\n  * People who are thinking about workflows, efficiency, and repeatability for their company\n\nWhy?\n----\n\n* Sanity\n* Efficiency\n* Stability\n* Repeatability\n* Sustainability\n* Profitability\n\n\nHow?\n----\n\n* Documentation, Documentation, Documentation\n* Processes (People and Machines)\n* Communication\n* Real time vs. Asynchronous\n* ChatOps\n* Email\n* Issue Queues\n* Tooling\n* Automation"
+      "description": "Who?<br>-----<br>Beginner / Intermediate / Advanced<br><br>All concepts will be discussed at a high level. This will be talk about code and workflow examples, but your experience level will not preclude you from gaining contextual benefit and  it is probably good for a beginner to be exposed to some of the concepts and vocabulary.<br><br>* If you are a decision maker (or have or intend to influence decision making) for your agency/company<br>  * CEO<br>  * CTO<br>  * Lead Developer<br>  * People who are thinking about workflows, efficiency, and repeatability for their company<br><br>Why?<br>----<br><br>* Sanity<br>* Efficiency<br>* Stability<br>* Repeatability<br>* Sustainability<br>* Profitability<br><br><br>How?<br>----<br><br>* Documentation, Documentation, Documentation<br>* Processes (People and Machines)<br>* Communication<br>* Real time vs. Asynchronous<br>* ChatOps<br>* Email<br>* Issue Queues<br>* Tooling<br>* Automation"
     },
     {
       "id": 52,
@@ -174,7 +174,7 @@
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "HTTP, World Wide Web, Browser",
-      "description": "I will start with the history of HTTP, and how it changes from 0.9 to 1.0 and to 1.1.\nI will explain the performance benefit of HTTP/2, the state of support and\na very interesting performance feature (Server Push). Then I will talk about\nreal time systems that use Web Sockets for persistent data connection.\nThen I will talk about data synchronization solutions via in-browser database\nthat can sync automatically. I will talk about offline support and\ninstant web applications using ServiceWorker, and finally I will describe why HTTP/2\nis going to be replaced by a protocol named QUIC based on UDP."
+      "description": "I will start with the history of HTTP, and how it changes from 0.9 to 1.0 and to 1.1.<br>I will explain the performance benefit of HTTP/2, the state of support and<br>a very interesting performance feature (Server Push). Then I will talk about<br>real time systems that use Web Sockets for persistent data connection.<br>Then I will talk about data synchronization solutions via in-browser database<br>that can sync automatically. I will talk about offline support and<br>instant web applications using ServiceWorker, and finally I will describe why HTTP/2<br>is going to be replaced by a protocol named QUIC based on UDP."
     },
     {
       "id": 77,
@@ -190,7 +190,7 @@
       "type": "All",
       "audience": "Beginner",
       "tags": "Drupal 8, drupal, translation",
-      "description": "Anyone that has been to a conference knows that Live Demo�۪s are the double edged sword of any speaker. If the Live Demo goes off without a hitch, the speaker is a rockstar and the audience will sing his praises. If the Demo crashes and burns in a heap at the podium, the speaker will be drawn and quartered by the audience. So, live demos can be challenging and if your going to take the risk of doing a live demo why not amp up the difficultly level by adding a topic like Translation.\n \n This live demo will be something of a working session where we will use a local Drupal environment to show the following three things:\n \n  - How to get Drupal Multilingual setup from a basic Drupal 8 Install\n  - How to translate Items using Drupal�۪s built-in Translation System.\n  - How to integrate with a translation service like Lingotek to do easy machine translation\n \n To participate with this talk you should have the following:\n \n - Whatever local environment you want (MAMP, Vagrant, etc)\n - A base Drupal install built with Drupal Composer (If you're more comfortable using Drush feel free!)\n - A basic knowledge of Drupal 8 and how to install modules via Composer\n The above are not needed if you just want to come, watch and ask questions. However, if you would like to leave with a fully working (hopefully) translation demo you can show your friends, come prepared!"
+      "description": "Anyone that has been to a conference knows that Live Demo�۪s are the double edged sword of any speaker. If the Live Demo goes off without a hitch, the speaker is a rockstar and the audience will sing his praises. If the Demo crashes and burns in a heap at the podium, the speaker will be drawn and quartered by the audience. So, live demos can be challenging and if your going to take the risk of doing a live demo why not amp up the difficultly level by adding a topic like Translation.<br> <br> This live demo will be something of a working session where we will use a local Drupal environment to show the following three things:<br> <br>  - How to get Drupal Multilingual setup from a basic Drupal 8 Install<br>  - How to translate Items using Drupal�۪s built-in Translation System.<br>  - How to integrate with a translation service like Lingotek to do easy machine translation<br> <br> To participate with this talk you should have the following:<br> <br> - Whatever local environment you want (MAMP, Vagrant, etc)<br> - A base Drupal install built with Drupal Composer (If you're more comfortable using Drush feel free!)<br> - A basic knowledge of Drupal 8 and how to install modules via Composer<br> The above are not needed if you just want to come, watch and ask questions. However, if you would like to leave with a fully working (hopefully) translation demo you can show your friends, come prepared!"
     },
     {
       "id": 89,
@@ -205,8 +205,8 @@
       "room": "145",
       "type": "All",
       "audience": "",
-      "tags": "",
-      "description": "Need description"
+      "tags": "Lens Studio",
+      "description": "In this tutorial we will be going over how Lens Studio works, how to navigate Lens Studio, and how to modify one of the example scenes to have a tennis ball with a shadow that you can move."
     },
     {
       "id": null,
@@ -216,19 +216,19 @@
       "speaker": "",
       "email": "",
       "day": "Saturday",
-      "start": "12:OOPM",
+      "start": "12:00PM",
       "end": "12:45PM",
       "room": "Reception",
       "type": "All",
       "audience": "",
       "tags": "Eat!",
-      "description": "Sandwich Platters (Turkey & Club, Italian, Ham & Roast beef, Chicken Salad & Tuna Salad, Veggie & Caprese)\nSandwich Platter (all sandwiches VEGAN & GLUTEN FREE)\nSliced Fruit Platter (VG, GF, DF)\nLemonade, Water"
+      "description": "Sandwich Platters (Turkey & Club, Italian, Ham & Roast beef, Chicken Salad & Tuna Salad, Veggie & Caprese)<br>Sandwich Platter (all sandwiches VEGAN & GLUTEN FREE)<br>Sliced Fruit Platter (VG, GF, DF)<br>Lemonade, Water"
     },
     {
       "id": 87,
       "order": "3/17/18 13:00",
       "57": 1,
-      "name": "RenPy (ages 12+)",
+      "name": "Intro to RenPy",
       "speaker": "Holyoke Codes",
       "email": "andrew@elytra.net",
       "day": "Saturday",
@@ -237,8 +237,8 @@
       "room": "325",
       "type": "Beginner",
       "audience": "",
-      "tags": "beginner",
-      "description": "Saturday 1:00 - 2:45 RenPy (ages 12+)"
+      "tags": "beginner, ages 12+",
+      "description": "Tell your own stories as an interactive graphic novel!<br>\nYou�ll learn to use Ren�Py, a Python-based tool that enables you to easily create visual novels with words, images, and sounds. You can combine multi-media capabilities and digital storytelling, offering your readers the ability to engage with your story and make choices that affect the outcome!"
     },
     {
       "id": 91,
@@ -253,8 +253,8 @@
       "room": "135",
       "type": "All",
       "audience": "",
-      "tags": "",
-      "description": ""
+      "tags": "The future of computing",
+      "description": "A Microsoft Developer & Evangelist in Colorado, Jerry teaches and speaks on Mobility and Enterprise development. He started his career delivering data-centric solutions while \"database developer\" was still a novel term. He received a civilian Naval Commendation for security work, preceding his work for the startup that became Microsoft Dynamics. For two decades now, Jerry has built solutions and taught design patterns and UX best practices to thousands of developers around the world. Jerry spends the bulk of his free time teaching his three daughters Star Trek character backstories and episode plots."
     },
     {
       "id": 2,
@@ -270,7 +270,7 @@
       "type": "All",
       "audience": "All",
       "tags": "project management, agile",
-      "description": "When developing a new product or feature, getting it into the hands of users provides the best insight and feedback. This is critically valuable to an early stage startup where you are trying to decide if your idea is sound, if the product usable and if there is a market fit. \n\nUsing VidMob as a case study we will talk about how we went from launching a consumer-focused mobile experience in a few months to becoming a creative partner for the largest brands running video on Facebook, Instagram, Snapchat, Pinterest and Twitter in less than 2 years. \n\nThe four topics we will cover in this discussion are:\n\n### Identifying the MVP and why that is important\n* Intro\n* Identify core functions that enable clients to use your product\n* Find honest friends, mentors, and advisors to provide feedback\n\n### Managing limited resources\n* Adopt agile early (even just loosely)\n* Identify complexity quickly\n* Don�t reinvent the wheel, use the cloud\n\n### Manage technical debt\n* DON�T over-engineer\n* DO engineer for the future\n\n### Be ready to pivot\n* Listen to your users\n* Be honest with the market fit\n* Move quickly"
+      "description": "When developing a new product or feature, getting it into the hands of users provides the best insight and feedback. This is critically valuable to an early stage startup where you are trying to decide if your idea is sound, if the product usable and if there is a market fit. <br><br>Using VidMob as a case study we will talk about how we went from launching a consumer-focused mobile experience in a few months to becoming a creative partner for the largest brands running video on Facebook, Instagram, Snapchat, Pinterest and Twitter in less than 2 years. <br><br>The four topics we will cover in this discussion are:<br><br>### Identifying the MVP and why that is important<br>* Intro<br>* Identify core functions that enable clients to use your product<br>* Find honest friends, mentors, and advisors to provide feedback<br><br>### Managing limited resources<br>* Adopt agile early (even just loosely)<br>* Identify complexity quickly<br>* Don�t reinvent the wheel, use the cloud<br><br>### Manage technical debt<br>* DON�T over-engineer<br>* DO engineer for the future<br><br>### Be ready to pivot<br>* Listen to your users<br>* Be honest with the market fit<br>* Move quickly"
     },
     {
       "id": 16,
@@ -286,7 +286,7 @@
       "type": "All",
       "audience": "All",
       "tags": "html, css, javascript, basics, advanced, design",
-      "description": "Does your company or business rely on a web form for important activities? What happens when someone loads your page without JavaScript? Can the user complete their task? If not, will you know about the failure if they don't call or email you?\n\nFirst, you're not alone. But that doesn't mean you shouldn't worry. Together we will cover topics and technologies to increase confidence and conversion. The good news: you don't need to learn some fancy new framework. The bad news: you probably have to [re]learn the basics. Changes in our devices, browsers, networks, and society have all altered how users interact with our forms."
+      "description": "Does your company or business rely on a web form for important activities? What happens when someone loads your page without JavaScript? Can the user complete their task? If not, will you know about the failure if they don't call or email you?<br><br>First, you're not alone. But that doesn't mean you shouldn't worry. Together we will cover topics and technologies to increase confidence and conversion. The good news: you don't need to learn some fancy new framework. The bad news: you probably have to [re]learn the basics. Changes in our devices, browsers, networks, and society have all altered how users interact with our forms."
     },
     {
       "id": 23,
@@ -302,7 +302,7 @@
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "javascript, advanced, mobile apps",
-      "description": "GraphQL is a query-language for APIs as opposed to databases.  GraphQL allows for an API to share a common schema with a client, including type-checking and documentation.\n\nRelay Modern is a frontend framework that consumes a GraphQL schema and allows you to declare data dependencies on your React components.  These dependencies get merged into a single request on page-load, minimizing network traffic.  Moreover, the results of the queries are stored in a client-side cache which makes navigating a single-page application remarkably fast.\n\nThe schema for the GraphQL API and client can be automatically generated from a specially-designed Postgres database (and optional API 'plugins' written in NodeJS for things like sending emails, talking to external APIs, etc).  The CRUD fields (fields are a bit like an endpoint in REST, except they're quite different) are built for all tables and relations, and the queries include pagination, filtering, ordering, and more.  \n\nWith GraphQL, Relay Modern, and Postgraphile, a modern and performant API and frontend can be constructed fairly quickly.  Moreover, it's much easier to maintain a GraphQL API than it is a REST API as you don't have to make new endpoints all of the time, and you never have multiple versions of the same API (only deprecated fields)\n\nThe maintainability and cleanliness of GraphQL, the declarative data dependencies of Relay Modern, and the API-autogeneration-introspection of Postgraphile combine to deliver an amazing developer experience that I'm excited to share with you :)"
+      "description": "GraphQL is a query-language for APIs as opposed to databases.  GraphQL allows for an API to share a common schema with a client, including type-checking and documentation.<br><br>Relay Modern is a frontend framework that consumes a GraphQL schema and allows you to declare data dependencies on your React components.  These dependencies get merged into a single request on page-load, minimizing network traffic.  Moreover, the results of the queries are stored in a client-side cache which makes navigating a single-page application remarkably fast.<br><br>The schema for the GraphQL API and client can be automatically generated from a specially-designed Postgres database (and optional API 'plugins' written in NodeJS for things like sending emails, talking to external APIs, etc).  The CRUD fields (fields are a bit like an endpoint in REST, except they're quite different) are built for all tables and relations, and the queries include pagination, filtering, ordering, and more.  <br><br>With GraphQL, Relay Modern, and Postgraphile, a modern and performant API and frontend can be constructed fairly quickly.  Moreover, it's much easier to maintain a GraphQL API than it is a REST API as you don't have to make new endpoints all of the time, and you never have multiple versions of the same API (only deprecated fields)<br><br>The maintainability and cleanliness of GraphQL, the declarative data dependencies of Relay Modern, and the API-autogeneration-introspection of Postgraphile combine to deliver an amazing developer experience that I'm excited to share with you :)"
     },
     {
       "id": 32,
@@ -318,7 +318,7 @@
       "type": "All",
       "audience": "All",
       "tags": "open source, foss, funding, sustainability",
-      "description": "While open-source sustainability has been a common topic in the hallways tracks and dev channels of major projects for years, the Heartbleed vulnerability in 2014 catapulted the topic in to the spotlight. Since then we've seen many discussions about how open-source should be supported for the long term, but rarely much action beyond a few token donations and some long Twitter threads. In this talk we'll look at an overview of what kinds of projects are out there, how sustainability works in real terms, and what techniques have worked or not worked over the years.\n"
+      "description": "While open-source sustainability has been a common topic in the hallways tracks and dev channels of major projects for years, the Heartbleed vulnerability in 2014 catapulted the topic in to the spotlight. Since then we've seen many discussions about how open-source should be supported for the long term, but rarely much action beyond a few token donations and some long Twitter threads. In this talk we'll look at an overview of what kinds of projects are out there, how sustainability works in real terms, and what techniques have worked or not worked over the years.<br>"
     },
     {
       "id": 92,
@@ -349,8 +349,8 @@
       "room": "135",
       "type": "Intermediate",
       "audience": "Intermediate",
-      "tags": "",
-      "description": "In this talk, I'll show how to set up an AWS Kinesis stream, hook it\nup to AWS Lambda, and store the data into DynamoDB and S3.\nThen, we'll look at accessing the S3 data using Athena.\n\nNo AWS experience is necessary, but there are a lot of moving parts,\nso some technical background will be helpful."
+      "tags": "AWS, Kenesis, Lambda, DynamoDB, S3",
+      "description": "In this talk, I'll show how to set up an AWS Kinesis stream, hook it<br>up to AWS Lambda, and store the data into DynamoDB and S3.<br>Then, we'll look at accessing the S3 data using Athena.<br><br>No AWS experience is necessary, but there are a lot of moving parts,<br>so some technical background will be helpful."
     },
     {
       "id": 55,
@@ -366,7 +366,7 @@
       "type": "All",
       "audience": "All",
       "tags": "open-source, licensing, basics",
-      "description": "Open source projects are unique in that they invite the world to use, improve and add onto them. Allowing the world to use that software to solve its problems.  To open-source your software and make it available for the world to improve you need to add an open-source license. But with many types of open-source licenses to choose from, how do you select the �right one�? This presentation walks through the values of creating open-source software and how to select the right open-source license for your project. \n\nAttendees of this session will walk out with three fundamental lessons: \n* The value that open-source software provides to the world.\n* An understanding of the different between the three(3) main types of open-source licenses available. \n* How to select the right open-source license for your project.\n"
+      "description": "Open source projects are unique in that they invite the world to use, improve and add onto them. Allowing the world to use that software to solve its problems.  To open-source your software and make it available for the world to improve you need to add an open-source license. But with many types of open-source licenses to choose from, how do you select the �right one�? This presentation walks through the values of creating open-source software and how to select the right open-source license for your project. <br><br>Attendees of this session will walk out with three fundamental lessons: <br>* The value that open-source software provides to the world.<br>* An understanding of the different between the three(3) main types of open-source licenses available. <br>* How to select the right open-source license for your project.<br>"
     },
     {
       "id": 78,
@@ -382,7 +382,7 @@
       "type": "All",
       "audience": "All",
       "tags": "project management, agile",
-      "description": "Mark Twain once said, \"A classic is something that everybody wants to have read and nobody wants to read.\"\n \n Presented in a lighthearted manner, this session will introduce several classic programming books, and hopefully inspire you to actually want to read them. You will discover that many of the big challenges you are grappling with are not new, and that there are solutions. The \"classics\" cover high-level concepts in project management and programming. No technical experience is necessary, yet even experts will probably learn something exciting and new.\n \n Some of the books that will be covered include:\n \n - Peopleware\n - The Mythical Man Month\n - Design Patterns\n - The Cathedral and The Bazaar\n - And more?\n Time will be provided for the audience to participate in a discussion driven by their interests."
+      "description": "Mark Twain once said, \"A classic is something that everybody wants to have read and nobody wants to read.\"<br> <br> Presented in a lighthearted manner, this session will introduce several classic programming books, and hopefully inspire you to actually want to read them. You will discover that many of the big challenges you are grappling with are not new, and that there are solutions. The \"classics\" cover high-level concepts in project management and programming. No technical experience is necessary, yet even experts will probably learn something exciting and new.<br> <br> Some of the books that will be covered include:<br> <br> - Peopleware<br> - The Mythical Man Month<br> - Design Patterns<br> - The Cathedral and The Bazaar<br> - And more?<br> Time will be provided for the audience to participate in a discussion driven by their interests."
     },
     {
       "id": 80,
@@ -420,7 +420,7 @@
       "id": 88,
       "order": "3/17/18 15:00",
       "57": 1,
-      "name": "HTML/CSS/JS ( adults, but we'd take teens )",
+      "name": "Intro to HTML / CSS / JS",
       "speaker": "Holyoke Codes",
       "email": "andrew@elytra.net",
       "day": "Saturday",
@@ -429,8 +429,8 @@
       "room": "325",
       "type": "Beginner",
       "audience": "",
-      "tags": "beginner",
-      "description": "Saturday 3:00 - 4:45 HTML/CSS/JS ( adults, but we'd take teens )"
+      "tags": "beginner, adult & teens",
+      "description": "The web is built with HTML!<br>\nIn this workshop you will learn how to create webpages with Hypertext Markup Language (HTML) and make them look nice with Cascading Style Sheets (CSS). We�ll add a bit of Javascript to make them interactive!<br>\nNo previous experience is necessary, but you should be comfortable typing with a keyboard."
     },
     {
       "id": 5,
@@ -478,7 +478,7 @@
       "type": "All",
       "audience": "All",
       "tags": "project management, agile, basics, kanban, lean, flow",
-      "description": "You�ve probably been late to something once, only to find as you drive onto the freeway hoping that you can try to make up for some of that lost time, it�s backed up for what looks like miles and miles. You call your friend and update them that the 15 min drive is now looking like at least an hour. That�s just a guess, though, you really have no idea as you lack the visibility into the conditions of the bigger system that you�re now a part of. You�re probably annoyed too, because waiting and sitting in traffic is a waste of time and the person behind you is trying to honk their way through it! It'd be great if this 4-lane freeway were 6-lanes! Ugh!\n\nThe solution cities have historically taken to traffic problems has been to add more lanes (capacity) or more traffic signals (process). Similarities exist in software development, where in the spirit of trying to get more things done faster, often times more people are added or more process is enforced. While well intentioned, this can end up slowing things down even more. \n\nIn order to sustainably do more, faster, a solution we�ve found to be successful is to visualize our workflow and limit our work in progress. Traffic jams have become rare, and most importantly, value is delivered to customer�s with increased predictability, along with improvements to team morale.  \n\nIn this session we�ll explore: \n* What a work unit is\n* Techniques to visualize and organize the flow of work \n* Why we limit work in progress\n* Finding the right work in progress limit for a team\n* Pull versus push\n* Going from good to great\n"
+      "description": "You've probably been late to something once, only to find as you drive onto the freeway hoping that you can try to make up for some of that lost time, it's backed up for what looks like miles and miles. You call your friend and update them that the 15 min drive is now looking like at least an hour. That�s just a guess, though, you really have no idea as you lack the visibility into the conditions of the bigger system that you�re now a part of. You're probably annoyed too, because waiting and sitting in traffic is a waste of time and the person behind you is trying to honk their way through it! It'd be great if this 4-lane freeway were 6-lanes! Ugh!<br><br>The solution cities have historically taken to traffic problems has been to add more lanes (capacity) or more traffic signals (process). Similarities exist in software development, where in the spirit of trying to get more things done faster, often times more people are added or more process is enforced. While well intentioned, this can end up slowing things down even more. <br><br>In order to sustainably do more, faster, a solution we�ve found to be successful is to visualize our workflow and limit our work in progress. Traffic jams have become rare, and most importantly, value is delivered to customer's with increased predictability, along with improvements to team morale.  <br><br>In this session we'll explore: <br>* What a work unit is<br>* Techniques to visualize and organize the flow of work <br>* Why we limit work in progress<br>* Finding the right work in progress limit for a team<br>* Pull versus push<br>* Going from good to great<br>"
     },
     {
       "id": 74,
@@ -494,7 +494,7 @@
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "php, drupal, javascript",
-      "description": "Trying to tame a modern, fully-featured web application like Drupal can be an exercise in frustration. Whether you've been using a piece of software for years or you were just handed the codebase, many of the same problems can confound you.\n \n * Why are you seeing that piece of content there?\n \n * Why am I seeing a negative integer instead of a string from this function?\n \n * What does this PDOException in my Watchdog log even mean?\n \n In my career I've come to realize that the key to being a better developer is not having more tools in my toolbox, but in really knowing those tools - knowing not only when but how to deploy them to best solve the problem in front of me.� In this session we will be going over useful debugging tools and techniques that can help you start to see into the inner workings of all versions of Drupal, and really any codebase you might have in front of you. You will be better prepared to start building truly custom features into your projects and you'll be able to remain calm when you get the inevitable email that your site is showing the dreaded White Screen Of Death at 4:45pm on a Friday afternoon."
+      "description": "Trying to tame a modern, fully-featured web application like Drupal can be an exercise in frustration. Whether you've been using a piece of software for years or you were just handed the codebase, many of the same problems can confound you.<br> <br> * Why are you seeing that piece of content there?<br> <br> * Why am I seeing a negative integer instead of a string from this function?<br> <br> * What does this PDOException in my Watchdog log even mean?<br> <br> In my career I've come to realize that the key to being a better developer is not having more tools in my toolbox, but in really knowing those tools - knowing not only when but how to deploy them to best solve the problem in front of me.<br> In this session we will be going over useful debugging tools and techniques that can help you start to see into the inner workings of all versions of Drupal, and really any codebase you might have in front of you. You will be better prepared to start building truly custom features into your projects and you'll be able to remain calm when you get the inevitable email that your site is showing the dreaded White Screen Of Death at 4:45pm on a Friday afternoon."
     },
     {
       "id": 79,
@@ -510,7 +510,7 @@
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "python, aws, django",
-      "description": "<a href='http://masschallenge.org'>MassChallenge</a>'s **Accelerate** is a software platform that supports all phases of startup accelerator operation: application acceptance, application judging, mentor recruitment and matching, startup communication, office hour scheduling, and more. A team of seven engineers builds the system. Most are based in Boston.\n \nThe application is written in Python on the Django web framework and deployed using Amazon Web Services. An increasing number of the system's components are being released as open source."
+      "description": "<a href='http://masschallenge.org'>MassChallenge</a>'s **Accelerate** is a software platform that supports all phases of startup accelerator operation: application acceptance, application judging, mentor recruitment and matching, startup communication, office hour scheduling, and more. A team of seven engineers builds the system. Most are based in Boston.<br> <br>The application is written in Python on the Django web framework and deployed using Amazon Web Services. An increasing number of the system's components are being released as open source."
     },
     {
       "id": null,
@@ -528,7 +528,7 @@
       "tags": "Have fun!",
       "description": "Appetizers, cash bar."
     }
-  ],
+      ],
   "Sunday": [
     {
       "id": null,
@@ -544,7 +544,7 @@
       "type": "All",
       "audience": "",
       "tags": "Good morning!",
-      "description": "Assorted Pastries\nSeasonal Hand Fruit\nFruit Juices and Water\nHot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
+      "description": "Assorted Pastries<br>Seasonal Hand Fruit<br>Fruit Juices and Water<br>Hot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
     },
     {
       "id": null,
@@ -556,7 +556,7 @@
       "day": "Sunday",
       "start": "9:15AM",
       "end": "9:45AM",
-      "room": "Reception",
+      "room": "135",
       "type": "All",
       "audience": "",
       "tags": "Welcome NERDS!",
@@ -576,7 +576,7 @@
       "type": "All",
       "audience": "All",
       "tags": "Agile Lifestyle, BaseCamp, Orienteering, Coaching",
-      "description": "Do you ever feel like you are running a rat race, with no end in sight? Well that's exactly how my wife and I felt. Finally, I started applying what I was doing professionally into our every day lives. At first, it was a failure, but only because I didn't communicate the idea well enough to her. My second attempt went a lot better, and we now have multiple kanban's near our pantry as well as a couple of calendar chalk boards. Having this in our lives, has changed the way we communicate with each other, as well as making sure we aren't over committed in our lives. We also are working on implementing the way we budget into this lifestyle. Our sprints are for 1 week, so we do our sprint planning on Sundays, as well as retrospectives. We have a daily meeting when possible, but with our boards, we update them as soon as we accomplish our tasks or chores. We even have a backlog on our weekly board to pursue dreams of things like going to Disneyland, or even as simple as finding time to clean out our vehicles. \n\nI am so passionate about this Agile Lifestyle, that I am hoping to have my book published by March of this year! I look forward to hopefully talking about this at your event this year. "
+      "description": "Do you ever feel like you are running a rat race, with no end in sight? Well that's exactly how my wife and I felt. Finally, I started applying what I was doing professionally into our every day lives. At first, it was a failure, but only because I didn't communicate the idea well enough to her. My second attempt went a lot better, and we now have multiple kanban's near our pantry as well as a couple of calendar chalk boards. Having this in our lives, has changed the way we communicate with each other, as well as making sure we aren't over committed in our lives. We also are working on implementing the way we budget into this lifestyle. Our sprints are for 1 week, so we do our sprint planning on Sundays, as well as retrospectives. We have a daily meeting when possible, but with our boards, we update them as soon as we accomplish our tasks or chores. We even have a backlog on our weekly board to pursue dreams of things like going to Disneyland, or even as simple as finding time to clean out our vehicles. <br><br>I am so passionate about this Agile Lifestyle, that I am hoping to have my book published by March of this year! I look forward to hopefully talking about this at your event this year. "
     },
     {
       "id": 44,
@@ -592,7 +592,7 @@
       "type": "All",
       "audience": "All",
       "tags": "basics, python, workshop, machine learning, data science",
-      "description": "Python per Stack Overflow's November 2017 report is the fastest growing major programming language. With the rise of interest in machine learning, data science, and artificial intelligence Python is a no brainer. Python's scientific adoption rate is high for a variety of reasons, including it's robust functionality due to the richness of the Python Standard Library, its ability to easily integrate with other languages, and simple to learn, easy to read syntax. For any budding scientist Python's scientific packages are rapidly become an industry standard. In the space of machine learning and data science scikit-learn is Python's library for machine learning algorithms.\n\nIn this talk we'll review the basics of the scikit-learn API, walking through a toy machine learning example, and making the case for why scikit-learn is so powerful."
+      "description": "Python per Stack Overflow's November 2017 report is the fastest growing major programming language. With the rise of interest in machine learning, data science, and artificial intelligence Python is a no brainer. Python's scientific adoption rate is high for a variety of reasons, including it's robust functionality due to the richness of the Python Standard Library, its ability to easily integrate with other languages, and simple to learn, easy to read syntax. For any budding scientist Python's scientific packages are rapidly become an industry standard. In the space of machine learning and data science scikit-learn is Python's library for machine learning algorithms.<br><br>In this talk we'll review the basics of the scikit-learn API, walking through a toy machine learning example, and making the case for why scikit-learn is so powerful."
     },
     {
       "id": 72,
@@ -607,7 +607,7 @@
       "room": "221",
       "type": "Intermediate",
       "audience": "Intermediate",
-      "tags": "",
+      "tags": "React, ClojureScript.",
       "description": "Single-page applications and dashboards are hard to architect, develop, and maintain as they grow. Frameworks like AngularJS, Backbone, or GWT try to make this easier. But they often cause incidental complexity by introducing tight coupling and special semantics. You will get an overview over how to create a modular and scalable web application using React and ClojureScript. React is a component based, reactive JavaScript library that handles state changes, component lifecycles, and UI updates without getting in your way. ClojureScript with its functional paradigm and immutable data structures complements React perfectly. After a brief introduction to the core concepts of React and ClojureScript, we will take a look at a real-world application, discuss best practices and some possible pitfalls."
     },
     {
@@ -624,7 +624,7 @@
       "type": "All",
       "audience": "All",
       "tags": "python, machine learning, Jupyter Notebook, basics, data science",
-      "description": "Practical Introduction to Data Science in Python. We will work with Jupyter Notebook created for this exercise. We will discuss python libraries, basic data analysis and data cleansing, data visualization with Matplotlib and Mapbox, machine learning and it's types. \n\nSession materials include presentation, Jupyter notebook with code block for participants to work on, reference links and materials to get them started with data science journey."
+      "description": "Practical Introduction to Data Science in Python. We will work with Jupyter Notebook created for this exercise. We will discuss python libraries, basic data analysis and data cleansing, data visualization with Matplotlib and Mapbox, machine learning and it's types. <br><br>Session materials include presentation, Jupyter notebook with code block for participants to work on, reference links and materials to get them started with data science journey."
     },
     {
       "id": 54,
@@ -640,7 +640,7 @@
       "type": "Beginner",
       "audience": "Beginner",
       "tags": "JavaScript",
-      "description": "I am going to cover the following topics:\n- where JavaScript is used today: browser, mobile, server, desktop, build scripts, service workers.\n- how new features are added to the language\n- main tools for testing, linting and bundling code"
+      "description": "I am going to cover the following topics:<br>- where JavaScript is used today: browser, mobile, server, desktop, build scripts, service workers.<br>- how new features are added to the language<br>- main tools for testing, linting and bundling code"
     },
     {
       "id": 58,
@@ -656,7 +656,7 @@
       "type": "All",
       "audience": "All",
       "tags": "qa, teams, development, leadership, agile",
-      "description": "One of the hardest aspects of any managers job is to build a top-notch team, and it has been said that we should view our teams more like professional athletes vs as family members. Sometimes you inherit your team members, and sometimes you have to hire them, but if we take the same approach that leaders in professional sports take, we can build out a team that wins every time.\n\nIn this session, we will walk through the various elements that go into this approach. From defining the roles you need to end up with, to learning how to start assessing your team members in a way that results in the right people in the right roles, you will get a crash course on putting together a team using the same basic principles that are used in the pros.\n\n*Key Takeaways:*\n* How to define the team you need vs team you have\n* How to determine the best type of person for each role you need\n* An understanding of how to assess current team members or potential hires\n* How to recognize good team fit vs bad\n* How to recognize when change is needed"
+      "description": "One of the hardest aspects of any managers job is to build a top-notch team, and it has been said that we should view our teams more like professional athletes vs as family members. Sometimes you inherit your team members, and sometimes you have to hire them, but if we take the same approach that leaders in professional sports take, we can build out a team that wins every time.<br><br>In this session, we will walk through the various elements that go into this approach. From defining the roles you need to end up with, to learning how to start assessing your team members in a way that results in the right people in the right roles, you will get a crash course on putting together a team using the same basic principles that are used in the pros.<br><br>*Key Takeaways:*<br>* How to define the team you need vs team you have<br>* How to determine the best type of person for each role you need<br>* An understanding of how to assess current team members or potential hires<br>* How to recognize good team fit vs bad<br>* How to recognize when change is needed"
     },
     {
       "id": 85,
@@ -671,8 +671,8 @@
       "room": "321",
       "type": "Advanced",
       "audience": "Advanced",
-      "tags": "",
-      "description": "An introduction to the mechanics of ISLE, including a demo of new systems creation and existing systems maintenance processes. ISLE separates an institution's customizations from systems software, moving those components into containers that are easily updated. This simplifies and largely automates the processes of installation and maintenance for Islandora/Fedora environments. While this workshop will focus on building a local development environment, ISLE also delivers a production-ready and security-hardened platform.\nFor institutions considering migrating from a proprietary digital repository to a Fedora-based open source collections management platform, ISLE offers an appealing jump-start alternative to Samvera's \"HykuDirect.\" For institutions already using Islandora, ISLE is expected to cut maintenance costs in half and improve overall security."
+      "tags": "Islandora, Fedora, Drupal",
+      "description": "An introduction to the mechanics of ISLE, including a demo of new systems creation and existing systems maintenance processes. ISLE separates an institution's customizations from systems software, moving those components into containers that are easily updated. This simplifies and largely automates the processes of installation and maintenance for Islandora/Fedora environments. While this workshop will focus on building a local development environment, ISLE also delivers a production-ready and security-hardened platform.<br>For institutions considering migrating from a proprietary digital repository to a Fedora-based open source collections management platform, ISLE offers an appealing jump-start alternative to Samvera's \"HykuDirect.\" For institutions already using Islandora, ISLE is expected to cut maintenance costs in half and improve overall security."
     },
     {
       "id": null,
@@ -682,13 +682,13 @@
       "speaker": "",
       "email": "",
       "day": "Sunday",
-      "start": "12:OOPM",
+      "start": "12:00PM",
       "end": "12:45PM",
       "room": "Reception",
       "type": "All",
       "audience": "",
       "tags": "Eat!",
-      "description": "Cheese Pizza \nPersonal GLUTEN FREE Cheese Pizza \nFruit Platter (VG, GF, DF) \nLemonade, Water"
+      "description": "Cheese Pizza <br>Personal GLUTEN FREE Cheese Pizza <br>Fruit Platter (VG, GF, DF) <br>Lemonade, Water"
     },
     {
       "id": 8,
@@ -704,7 +704,7 @@
       "type": "All",
       "audience": "All",
       "tags": "drupal, php, wordpress",
-      "description": "PHP development is a complex creature these days. How do you approach incorporating all of the technology needed to develop a pristine application? From the environment you need to run your application, to the software you need to build it, how do you connect it all together? You need a pluggable local environment for you and your team to work in, and a common project command library that will join your software tech and workflow together. Using Docksal, this is emphatically achievable.\n\nDocksal is your new local environment. It�s intuitive service architecture and configuration scheme enables you and your team to rapidly spin up local development environments with whatever services your application needs (Varnish, Solr, Memcache, etc.) without having to actually learn how to setup something like a complex Varnish server. More importantly, the configuration is stored alongside your project, ensuring that everyone on your team is developing in identical local environments, always.\n\nAfter this talk, you will have learned how Docksal can simplify and streamline your PHP development process across your entire team. You will feel relief in knowing that the skill barrier and time investment to start using Docksal is in fact very low. Perhaps also you will feel a sense of relaxation, as your journey for finding the last local environment setup you�ll ever use may finally be at an end."
+      "description": "PHP development is a complex creature these days. How do you approach incorporating all of the technology needed to develop a pristine application? From the environment you need to run your application, to the software you need to build it, how do you connect it all together? You need a pluggable local environment for you and your team to work in, and a common project command library that will join your software tech and workflow together. Using Docksal, this is emphatically achievable.<br><br>Docksal is your new local environment. It's intuitive service architecture and configuration scheme enables you and your team to rapidly spin up local development environments with whatever services your application needs (Varnish, Solr, Memcache, etc.) without having to actually learn how to setup something like a complex Varnish server. More importantly, the configuration is stored alongside your project, ensuring that everyone on your team is developing in identical local environments, always.<br><br>After this talk, you will have learned how Docksal can simplify and streamline your PHP development process across your entire team. You will feel relief in knowing that the skill barrier and time investment to start using Docksal is in fact very low. Perhaps also you will feel a sense of relaxation, as your journey for finding the last local environment setup you'll ever use may finally be at an end."
     },
     {
       "id": 22,
@@ -720,7 +720,7 @@
       "type": "Beginner",
       "audience": "Beginner",
       "tags": "Workshop, Web app, lean startup, full stack, apis",
-      "description": "During this workshop, I will walk through building a functional application and introduce the superpowers the platform Bubble provides non-developers.\n\nKnow how to code? Even better. Learn how Bubble can expedite your development process and enable quicker iterations."
+      "description": "During this workshop, I will walk through building a functional application and introduce the superpowers the platform Bubble provides non-developers.<br><br>Know how to code? Even better. Learn how Bubble can expedite your development process and enable quicker iterations."
     },
     {
       "id": 30,
@@ -736,7 +736,7 @@
       "type": "All",
       "audience": "All",
       "tags": "javascript, graphql, data, node",
-      "description": "GraphQL puts a ton of power in the hands of client app developers. With it, all we need to do is ask our API for exactly the data we want, and we get it back in the shape we expect. While this might seem simple on the surface, it actually requires a significant shift in thinking about how data interactions happen between the client and the server. GraphQL offers a complete (and significantly better) replacement for REST, but since it�s a whole new paradigm, it can sometimes be hard to approach.\n\nIn this talk, we�ll take a look at what GraphQL is and what it offers developers. We�ll demystify the GraphQL concepts that trip developers up most often and talk about how we can conceptualize them more simply while focusing on how to �think in GraphQL�. To do this we�ll dive into schemas, types, queries, mutations, and more. By the end of the talk, you�ll know what is needed for creating your own GraphQL server and how to consume it from a client.\n\nWhile this talk does assume some knowledge of client and server application relationships, a general knowledge of web technologies is really all that�s required to benefit from it."
+      "description": "GraphQL puts a ton of power in the hands of client app developers. With it, all we need to do is ask our API for exactly the data we want, and we get it back in the shape we expect. While this might seem simple on the surface, it actually requires a significant shift in thinking about how data interactions happen between the client and the server. GraphQL offers a complete (and significantly better) replacement for REST, but since it's a whole new paradigm, it can sometimes be hard to approach.<br><br>In this talk, we'll take a look at what GraphQL is and what it offers developers. We�ll demystify the GraphQL concepts that trip developers up most often and talk about how we can conceptualize them more simply while focusing on how to \"think in GraphQL\". To do this we�ll dive into schemas, types, queries, mutations, and more. By the end of the talk, you�ll know what is needed for creating your own GraphQL server and how to consume it from a client.<br><br>While this talk does assume some knowledge of client and server application relationships, a general knowledge of web technologies is really all that's required to benefit from it."
     },
     {
       "id": 71,
@@ -751,14 +751,14 @@
       "room": "321",
       "type": "Intermediate",
       "audience": "Intermediate",
-      "tags": "",
+      "tags": "data, Clojure,",
       "description": "Concurrent processing of large amounts of data can be broken down into computational building blocks represented by functions like map, filter, reduce, fold, and combine. In this talk we will take a look at the semantics of these building blocks and how to compose them into more complex processing pipelines. This will give you a better understanding of frameworks like Hadoop MapReduce or Clojure's Reducers. The examples will be in Clojure, but no prior knowledge of Clojure is required."
     },
     {
       "id": 7,
       "order": "3/18/18 14:00",
       "57": 1,
-      "name": "What�s all the fuss about fonts? Typography for the rest of us.",
+      "name": "What's all the fuss about fonts? Typography for the rest of us.",
       "speaker": "Thomas Urell",
       "email": "thomas.urell@commonmediainc.com",
       "day": "Sunday",
@@ -768,7 +768,7 @@
       "type": "All",
       "audience": "All",
       "tags": "design, typography, Comic Sans",
-      "description": "As a condensed version of an �Introduction to Typography� course, this talk will look at the basic concepts of typography at the scale of letterforms, words, paragraphs, and pages. Starting with a brief overview of the history and classification of fonts and their historical uses, we�ll then look at some of the ways fonts are used for expression and to carry meaning and voice. Finally, we�ll talk about resources for learning more about typography from a design and practical perspective, including recommended exercises and sources for fonts."
+      "description": "As a condensed version of an \"Introduction to Typography\" course, this talk will look at the basic concepts of typography at the scale of letterforms, words, paragraphs, and pages. Starting with a brief overview of the history and classification of fonts and their historical uses, we'll then look at some of the ways fonts are used for expression and to carry meaning and voice. Finally, we'll talk about resources for learning more about typography from a design and practical perspective, including recommended exercises and sources for fonts."
     },
     {
       "id": 19,
@@ -783,8 +783,8 @@
       "room": "321",
       "type": "All",
       "audience": "All",
-      "tags": "advanced",
-      "description": "A distributed architecture gives separation of concerns, isolation of performance issues and scale at ease. O.k what about data? For a truly distributed architecture to be consistent, there should be reliable data exchange between systems and that�s where we need tools like RabbitMQ, Apache Kafka etc comes into play. This talk covers the following topics in 30 mins\n\n- Why distributed microservices\n- The publisher-subscriber architecture\n- Message queues in rails\n- Challenges in choosing a distributed microservices architecture for Rails\n- The Pros and cons of this architecture\n- A few interesting stuff I learned using RabbitMQ with Rails"
+      "tags": "microservices, distributed architecture",
+      "description": "A distributed architecture gives separation of concerns, isolation of performance issues and scale at ease. OK what about data? For a truly distributed architecture to be consistent, there should be reliable data exchange between systems and that's where we need tools like RabbitMQ, Apache Kafka etc comes into play. This talk covers the following topics in 30 mins<br><br>- Why distributed microservices<br>- The publisher-subscriber architecture<br>- Message queues in rails<br>- Challenges in choosing a distributed microservices architecture for Rails<br>- The Pros and cons of this architecture<br>- A few interesting stuff I learned using RabbitMQ with Rails"
     },
     {
       "id": 57,
@@ -800,7 +800,7 @@
       "type": "All",
       "audience": "All",
       "tags": "Gamification, Agile, Scrum, Development, Professional Development",
-      "description": "The term Gamification is a fairly recent term. It was first mentioned in 2002 and became a HUGE buzzword in 2011. Since 2011 the gamification industry has exploded into a billion dollar industry and companies many companies have realizing that gamification of operational processes can have a huge impact on productive and customer engagement; all of which impact the bottom line. Majority of the monetized work in gamification has been in sales, training, and compliance. Specifically, how to build in game elements into existing processes and building platforms built with gamification principles to increase compliance, productivity, and/or sales. Even though this topics are received the most attention as of late, gamification can be used in all areas of the business including product development and client services. Moreover, we can pair agile development processes with gamification principles and realize some amazing results. In this talk we will explore what gamification is, how it works, and how to incorporate it into an agile development proces. This talk will discuss powerful psychology motivations that we, as human beings are hardwired to respond to and how to stimulate them with game elements. Next we explore how to harass this effect to improve the agile software development process. Lastly we talk about some strategies for pairing gamification principles into your agile development process to increase team velocity, productivity, and boost morale. \n\n\n"
+      "description": "The term Gamification is a fairly recent term. It was first mentioned in 2002 and became a HUGE buzzword in 2011. Since 2011 the gamification industry has exploded into a billion dollar industry and companies many companies have realizing that gamification of operational processes can have a huge impact on productive and customer engagement; all of which impact the bottom line. Majority of the monetized work in gamification has been in sales, training, and compliance. Specifically, how to build in game elements into existing processes and building platforms built with gamification principles to increase compliance, productivity, and/or sales. Even though this topics are received the most attention as of late, gamification can be used in all areas of the business including product development and client services. Moreover, we can pair agile development processes with gamification principles and realize some amazing results. In this talk we will explore what gamification is, how it works, and how to incorporate it into an agile development proces. This talk will discuss powerful psychology motivations that we, as human beings are hardwired to respond to and how to stimulate them with game elements. Next we explore how to harass this effect to improve the agile software development process. Lastly we talk about some strategies for pairing gamification principles into your agile development process to increase team velocity, productivity, and boost morale. <br><br><br>"
     },
     {
       "id": 4,
@@ -816,7 +816,7 @@
       "type": "All",
       "audience": "All",
       "tags": "workshop, advanced, basics, Networking",
-      "description": "What would a cooperatively run internet, built by the community, for the community, that is fast, private, neutral, and innovative, look like?  Join us in shaping the network *we* want.  \n\nThe first part of this workshop will be an informative overview of the current state of internet in Western Mass and what options there are in structuring the system (municipal, private cooperative, nonprofit corporation�).  The second part will be a brainstorming session on things you would like to see in the area and ways of making this happen.\n\nThis workshop will hopefully be informative to both beginners and veterans in technology.  We definitely want both groups, as well as members of the public outside the web development industry, to be at the workshop.  This will make the brainstorming more fruitful.  Additionally, the workshop is just a way of having a face-to-face discussion and meeting new people; you can join the project and continue the discussion on our listserve and Facebook page:\n\n**Listserve:** https://lists.riseup.net/www/info/internet-for-all  \n**Facebook:** https://www.facebook.com/groups/TheInternetIsForAll/  \n**Website with more information:** https://otherrealm.org/internet-for-all/  \n\n####These are the goals that the currently active community members came up with and hope to achieve:  \n**Fast** (broadband quality connectivity)  \n**Reliable** (robust and neutral � not subject to disruptions or throttling)  \n**Private** (meaning ensured privacy)  \n**Our Control** (meaning that other institutions cannot impose control over functionality because it is a structure which is owned, understood and controlled by those who use it)  \n**Empowerment for a more informed society** (providing people the tools necessary to make informed decisions and the ability to use them to contribute to society productively) "
+      "description": "What would a cooperatively run internet, built by the community, for the community, that is fast, private, neutral, and innovative, look like?  Join us in shaping the network *we* want.  <br><br>The first part of this workshop will be an informative overview of the current state of internet in Western Mass and what options there are in structuring the system (municipal, private cooperative, nonprofit corporation�).  The second part will be a brainstorming session on things you would like to see in the area and ways of making this happen.<br><br>This workshop will hopefully be informative to both beginners and veterans in technology.  We definitely want both groups, as well as members of the public outside the web development industry, to be at the workshop.  This will make the brainstorming more fruitful.  Additionally, the workshop is just a way of having a face-to-face discussion and meeting new people; you can join the project and continue the discussion on our listserve and Facebook page:<br><br>**Listserve:** https://lists.riseup.net/www/info/internet-for-all  <br>**Facebook:** https://www.facebook.com/groups/TheInternetIsForAll/  <br>**Website with more information:** https://otherrealm.org/internet-for-all/  <br><br>####These are the goals that the currently active community members came up with and hope to achieve:  <br>**Fast** (broadband quality connectivity)  <br>**Reliable** (robust and neutral � not subject to disruptions or throttling)  <br>**Private** (meaning ensured privacy)  <br>**Our Control** (meaning that other institutions cannot impose control over functionality because it is a structure which is owned, understood and controlled by those who use it)  <br>**Empowerment for a more informed society** (providing people the tools necessary to make informed decisions and the ability to use them to contribute to society productively) "
     },
     {
       "id": 10,
@@ -832,7 +832,7 @@
       "type": "All",
       "audience": "All",
       "tags": "programming in general, daily life, bugs, errors, basics",
-      "description": "It can be discouraging to look at broken code all day, but that's what we do. It's tempting to think that once we get more experience this won't happen any more. But it does, no matter our level of experience.\n\nThe reason for this is the almost invisible process of learning. As we learn more we make the hard problems easy and find new hard problems. This process continues our entire career; things are always broken, and it's always hard to fix it. \n\nBut it's OK. If we take the time to notice the things we're learning and to celebrate the times we've leveled up, we can actually relax and enjoy this process."
+      "description": "It can be discouraging to look at broken code all day, but that's what we do. It's tempting to think that once we get more experience this won't happen any more. But it does, no matter our level of experience.<br><br>The reason for this is the almost invisible process of learning. As we learn more we make the hard problems easy and find new hard problems. This process continues our entire career; things are always broken, and it's always hard to fix it. <br><br>But it's OK. If we take the time to notice the things we're learning and to celebrate the times we've leveled up, we can actually relax and enjoy this process."
     },
     {
       "id": 39,
@@ -848,7 +848,7 @@
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "serverless, devops, golang, architecture",
-      "description": "About two to four years ago it was�microservices, then there is the craze about�containers�and now we keep hearing about�serverless. Although for people that tap into tech ocassionally, it might seem like another buzzword every few years it is but a natural progression to go from microservices to serverless via containers.\n\nWhile microservices are the first step in breaking monolithic systems into small, modular, easy to manage applications, Containers let us achieve this state by efficiently isolating, deploying and distributing these services. Serverless takes this to the next logical step of having our code be running only when it needs to. \nUnderstanding how this is achieved is the objective of this talk. We de-mystify serverless platforms by building a Serverless platfrom Granda in Golang. The audience will walk out of this talk with a deeper understanding of Serverless systems."
+      "description": "About two to four years ago it was microservices, then there is the craze about containers and now we keep hearing about serverless. Although for people that tap into tech ocassionally, it might seem like another buzzword every few years it is but a natural progression to go from microservices to serverless via containers.<br><br>While microservices are the first step in breaking monolithic systems into small, modular, easy to manage applications, Containers let us achieve this state by efficiently isolating, deploying and distributing these services. Serverless takes this to the next logical step of having our code be running only when it needs to. <br>Understanding how this is achieved is the objective of this talk. We de-mystify serverless platforms by building a Serverless platfrom Granda in Golang. The audience will walk out of this talk with a deeper understanding of Serverless systems."
     },
     {
       "id": 64,
@@ -864,7 +864,7 @@
       "type": "All",
       "audience": "All",
       "tags": "design, advanced, Asynchronous",
-      "description": "Modern software needs to be multi-threaded to take advantage of the increasing number of CPUs per processor.  However, multi-threaded software comes with its own additional set of unique bugs and pitfalls.  Because the timing between threads isn�t deterministic, the interactions between threads, without taking the proper precautions, is also nondeterministic which leads to bugs that happen seemingly randomly.  This talk will introduce the core concepts of multi-threaded programming along with the most important design patterns, tricks and pitfalls that you should be aware of if you want to avoid the dreaded randomized bug.  "
+      "description": "Modern software needs to be multi-threaded to take advantage of the increasing number of CPUs per processor.  However, multi-threaded software comes with its own additional set of unique bugs and pitfalls.  Because the timing between threads isn't deterministic, the interactions between threads, without taking the proper precautions, is also nondeterministic which leads to bugs that happen seemingly randomly.  This talk will introduce the core concepts of multi-threaded programming along with the most important design patterns, tricks and pitfalls that you should be aware of if you want to avoid the dreaded randomized bug.  "
     },
     {
       "id": 12,
@@ -880,7 +880,7 @@
       "type": "All",
       "audience": "All",
       "tags": "Frontend, Web",
-      "description": "Handling the flow of asynchronous data streams has always been a challenging task. Callbacks offer the quick solution. Then came promises which made it easier to write and maintain code around such data streams. Reactive programming is another take on the problem. With implementations in languages like .net, java, scala, JavaScript etc, with big names like Google, Microsoft, Netflix actively supporting and maintaining implementations of the idea in these languages, the style of programming is here to stay.\nJS community has been appreciating the ease it brings in given the asynchronous nature of the language. Angular has adopted it as a core library, React-redux uses it. It�s safe to bet that the javascript implementation, RxJS if used in the right way can help in many ways."
+      "description": "Handling the flow of asynchronous data streams has always been a challenging task. Callbacks offer the quick solution. Then came promises which made it easier to write and maintain code around such data streams. Reactive programming is another take on the problem. With implementations in languages like .net, java, scala, JavaScript etc, with big names like Google, Microsoft, Netflix actively supporting and maintaining implementations of the idea in these languages, the style of programming is here to stay.<br>JS community has been appreciating the ease it brings in given the asynchronous nature of the language. Angular has adopted it as a core library, React-redux uses it. It's safe to bet that the javascript implementation, RxJS if used in the right way can help in many ways."
     },
     {
       "id": 17,
@@ -896,7 +896,7 @@
       "type": "All",
       "audience": "All",
       "tags": "workshop, project management, agile, drupal, scrum, waterfall",
-      "description": "The rules and practices for Scrum - a simple process for managing complex projects -\nare few, straightforward, and easy to learn. But Scrum�s simplicity itself - its lack of\nprescription - can be disarming, and new practitioners often find themselves reverting to\nold project management habits and tools and yielding lesser results.\n\nDuring this presentation, I will highlight:\nThe challenges we were facing with waterfall project management.\nA (very) brief overview of key concepts of agile and scrum.\nWhy we chose agile and scrum to replace waterfall.\nHow we introduced agile to our teams and what training looked like.\nSome of the immediate benefits we realized.\nThe challenges we face (and continue to face) in our transformation.\nOur next steps and how we are continually improving our approach each week.\n \n"
+      "description": "The rules and practices for Scrum - a simple process for managing complex projects - are few, straightforward, and easy to learn. <br><br>But Scrum's simplicity itself - its lack of prescription - can be disarming, and new practitioners often find themselves reverting to<br>old project management habits and tools and yielding lesser results.<br><br>During this presentation, I will highlight:<br> - The challenges we were facing with waterfall project management.<br>- A (very) brief overview of key concepts of agile and scrum.<br>- Why we chose agile and scrum to replace waterfall.<br>- How we introduced agile to our teams and what training looked like.<br>- Some of the immediate benefits we realized.<br>- The challenges we face (and continue to face) in our transformation.<br>- Our next steps and how we are continually improving our approach each week.<br> <br>"
     },
     {
       "id": 40,
