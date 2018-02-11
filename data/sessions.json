@@ -1,6 +1,38 @@
 {
   "Saturday": [
     {
+      "id": 0,
+      "order": "3/17/18 8:30",
+      "50": 1,
+      "name": "REGISTRATION & COFFEE",
+      "speaker": "",
+      "email": "",
+      "day": "Saturday",
+      "start": "8:30PM",
+      "end": "9:15PM",
+      "room": "First floor reception",
+      "type": "All",
+      "audience": "All",
+      "tags": "Good morning!",
+      "description": "Have fun!"
+    },
+    {
+      "id": 0,
+      "order": "3/17/18 9:15",
+      "50": 1,
+      "name": "Welcome & Opening Remarks",
+      "speaker": "Kelly Albrecht & Rick Hood",
+      "email": "",
+      "day": "Saturday",
+      "start": "9:15AM",
+      "end": "9:45AM",
+      "room": 135,
+      "type": "All",
+      "audience": "All",
+      "tags": "",
+      "description": "Please attend the welcome session for information and orientation about today's schedule."
+    },
+    {
       "id": 3,
       "order": "3/17/18 10:00",
       "50": 1,
@@ -175,6 +207,22 @@
       "audience": "",
       "tags": "",
       "description": "Need description"
+    },
+    {
+      "id": 0,
+      "order": "3/17/18 12:00",
+      "50": 1,
+      "name": "LUNCH",
+      "speaker": "",
+      "email": "",
+      "day": "Saturday",
+      "start": "12:00PM",
+      "end": "12:45PM",
+      "room": "First floor reception",
+      "type": "All",
+      "audience": "All",
+      "tags": "Eat!",
+      "description": "Lunch is served! "
     },
     {
       "id": 87,
@@ -463,9 +511,57 @@
       "audience": "Intermediate",
       "tags": "python, aws, django",
       "description": "<a href='http://masschallenge.org'>MassChallenge</a>'s **Accelerate** is a software platform that supports all phases of startup accelerator operation: application acceptance, application judging, mentor recruitment and matching, startup communication, office hour scheduling, and more. A team of seven engineers builds the system. Most are based in Boston.\n \nThe application is written in Python on the Django web framework and deployed using Amazon Web Services. An increasing number of the system's components are being released as open source."
+    },
+    {
+      "id": 0,
+      "order": "3/17/18 17:00",
+      "50": 1,
+      "name": "PARTY!",
+      "speaker": "",
+      "email": "",
+      "day": "Saturday",
+      "start": "5:00PM",
+      "end": "7:30PM",
+      "room": "First floor reception",
+      "type": "All",
+      "audience": "All",
+      "tags": "Have fun!",
+      "description": "Have fun!"
     }
   ],
   "Sunday": [
+    {
+      "id": 0,
+      "order": "3/18/18 8:30",
+      "50": 1,
+      "name": "REGISTRATION & COFFEE",
+      "speaker": "",
+      "email": "",
+      "day": "Sunday",
+      "start": "8:30PM",
+      "end": "9:15PM",
+      "room": "First floor recpetion",
+      "type": "All",
+      "audience": "All",
+      "tags": "Good morning!",
+      "description": "Have fun!"
+    },
+    {
+      "id": 0,
+      "order": "3/18/18 9:15",
+      "50": 1,
+      "name": "Welcome & Opening Remarks",
+      "speaker": "Kelly Albrecht & Rick Hood",
+      "email": "",
+      "day": "Sunday",
+      "start": "9:15AM",
+      "end": "9:45AM",
+      "room": 135,
+      "type": "All",
+      "audience": "All",
+      "tags": "",
+      "description": "Please attend the welcome session for information and orientation about today's schedule."
+    },
     {
       "id": 26,
       "order": "3/18/18 10:00",
@@ -577,6 +673,22 @@
       "audience": "Advanced",
       "tags": "",
       "description": "An introduction to the mechanics of ISLE, including a demo of new systems creation and existing systems maintenance processes. ISLE separates an institution's customizations from systems software, moving those components into containers that are easily updated. This simplifies and largely automates the processes of installation and maintenance for Islandora/Fedora environments. While this workshop will focus on building a local development environment, ISLE also delivers a production-ready and security-hardened platform.\nFor institutions considering migrating from a proprietary digital repository to a Fedora-based open source collections management platform, ISLE offers an appealing jump-start alternative to Samvera's \"HykuDirect.\" For institutions already using Islandora, ISLE is expected to cut maintenance costs in half and improve overall security."
+    },
+    {
+      "id": 0,
+      "order": "3/18/18 12:00",
+      "50": 1,
+      "name": "LUNCH",
+      "speaker": "",
+      "email": "",
+      "day": "Sunday",
+      "start": "12:00PM",
+      "end": "12:45PM",
+      "room": "First floor reception",
+      "type": "All",
+      "audience": "All",
+      "tags": "Eat!",
+      "description": "Lunch is served! "
     },
     {
       "id": 8,
