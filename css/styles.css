@@ -488,6 +488,9 @@ img.lil-nerdy-sessions {
     color: #000000;
 }
 
+.session .top:hover {
+    cursor: pointer;
+}
 
 
 
