@@ -358,6 +358,9 @@ Purple light    #8302ee
     margin: 0px;
     padding: 0px;
 }
+.session .speaker {
+    text-transform: uppercase;
+}
 
 .session .info {
     background-color: #FFFFFF;

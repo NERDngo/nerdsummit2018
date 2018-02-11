@@ -34,8 +34,8 @@ loadJSON(function(response) {
                 '<div class="time">' + start + ' - ' + end + '</div>' +
                 '<div class="room">Room: ' +room + '</div>' +
                 '<div class="title">' + '<h4 class="name">' + name + '</h4>' + '</div>' +
-                '<h5 class="speaker" >' + speaker + '</h5>' +
-                '<p class="tags" >' + type + ' | tags: ' + tags + '</p>' +
+                '<h5 class="speaker">' + speaker + '</h5>' +
+                '<p class="tags">Audience: ' + type + ' | ' + tags + '</p>' +
                 '</div>' +
                 '<div class="info">' +
                 '<p>' + description + '</p>' +
