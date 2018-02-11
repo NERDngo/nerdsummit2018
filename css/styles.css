@@ -284,12 +284,17 @@ Purple light    #8302ee
     flex-wrap: wrap;
 }
 .sessions {
-    width: 80%;
+    width: 100%;
     margin: 27px auto 0;
     text-align: center;
     font-size: 18px;
     letter-spacing: -0.4px;
     color: #5f5f5f;
+}
+@media (min-width: 960px) {
+    .sessions {
+        width: 80%;
+    }
 }
 .sessions .timeslot {
     width: 100%;
@@ -297,7 +302,7 @@ Purple light    #8302ee
     padding-bottom: 15px;
 }
 .sessions .more-info {
-    width: 350px;
+    width: 330px;
     margin: auto;
     padding: 0px 10px 5px 10px;
     color: #ffffff;
@@ -442,10 +447,18 @@ Purple light    #8302ee
 }
 
 img.lil-nerdy-sessions {
-    width: 80px;
+    width: 50px;
     float: right;
-    margin-top: -85px;
+    margin-top: -65px;
     margin-right: 10px;
+}
+@media (min-width: 960px) {
+    img.lil-nerdy-sessions {
+        width: 80px;
+        float: right;
+        margin-top: -85px;
+        margin-right: 10px;
+    }
 }
 
 .session .room {
