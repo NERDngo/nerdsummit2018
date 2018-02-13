@@ -611,6 +611,22 @@
       "description": "Single-page applications and dashboards are hard to architect, develop, and maintain as they grow. Frameworks like AngularJS, Backbone, or GWT try to make this easier. But they often cause incidental complexity by introducing tight coupling and special semantics. You will get an overview over how to create a modular and scalable web application using React and ClojureScript. React is a component based, reactive JavaScript library that handles state changes, component lifecycles, and UI updates without getting in your way. ClojureScript with its functional paradigm and immutable data structures complements React perfectly. After a brief introduction to the core concepts of React and ClojureScript, we will take a look at a real-world application, discuss best practices and some possible pitfalls."
     },
     {
+      "id": 39,
+      "order": "3/18/18 10:00",
+      "57": 1,
+      "name": "De-mystifying Serverless Platforms",
+      "speaker": "Aditya Relangi",
+      "email": "adi@logzero.email",
+      "day": "Sunday",
+      "start": "10:00PM",
+      "end": "10:45PM",
+      "room": "329",
+      "type": "Intermediate",
+      "audience": "Intermediate",
+      "tags": "serverless, devops, golang, architecture",
+      "description": "About two to four years ago it was microservices, then there is the craze about containers and now we keep hearing about serverless. Although for people that tap into tech ocassionally, it might seem like another buzzword every few years it is but a natural progression to go from microservices to serverless via containers.<br><br>While microservices are the first step in breaking monolithic systems into small, modular, easy to manage applications, Containers let us achieve this state by efficiently isolating, deploying and distributing these services. Serverless takes this to the next logical step of having our code be running only when it needs to. <br>Understanding how this is achieved is the objective of this talk. We de-mystify serverless platforms by building a Serverless platfrom Granda in Golang. The audience will walk out of this talk with a deeper understanding of Serverless systems."
+    },
+    {
       "id": 21,
       "order": "3/18/18 11:00",
       "57": 1,
@@ -833,22 +849,6 @@
       "audience": "All",
       "tags": "programming in general, daily life, bugs, errors, basics",
       "description": "It can be discouraging to look at broken code all day, but that's what we do. It's tempting to think that once we get more experience this won't happen any more. But it does, no matter our level of experience.<br><br>The reason for this is the almost invisible process of learning. As we learn more we make the hard problems easy and find new hard problems. This process continues our entire career; things are always broken, and it's always hard to fix it. <br><br>But it's OK. If we take the time to notice the things we're learning and to celebrate the times we've leveled up, we can actually relax and enjoy this process."
-    },
-    {
-      "id": 39,
-      "order": "3/18/18 15:00",
-      "57": 1,
-      "name": "De-mystifying Serverless Platforms",
-      "speaker": "Aditya Relangi",
-      "email": "adi@logzero.email",
-      "day": "Sunday",
-      "start": "3:00PM",
-      "end": "3:45PM",
-      "room": "329",
-      "type": "Intermediate",
-      "audience": "Intermediate",
-      "tags": "serverless, devops, golang, architecture",
-      "description": "About two to four years ago it was microservices, then there is the craze about containers and now we keep hearing about serverless. Although for people that tap into tech ocassionally, it might seem like another buzzword every few years it is but a natural progression to go from microservices to serverless via containers.<br><br>While microservices are the first step in breaking monolithic systems into small, modular, easy to manage applications, Containers let us achieve this state by efficiently isolating, deploying and distributing these services. Serverless takes this to the next logical step of having our code be running only when it needs to. <br>Understanding how this is achieved is the objective of this talk. We de-mystify serverless platforms by building a Serverless platfrom Granda in Golang. The audience will walk out of this talk with a deeper understanding of Serverless systems."
     },
     {
       "id": 64,
