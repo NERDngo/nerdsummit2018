@@ -206,7 +206,7 @@
       "type": "All",
       "audience": "",
       "tags": "Lens Studio",
-      "description": "In this tutorial we will be going over how Lens Studio works, how to navigate Lens Studio, and how to modify one of the example scenes to have a tennis ball with a shadow that you can move."
+      "description": "Learn how to work with and use Snapchat Lens Studio, a tool that allows anyone to make their own custom Snapchat filters. In this talk you will learn the basics of each custom filter in Snapchat, and how to navigate Lens Studio."
     },
     {
       "id": null,
@@ -238,7 +238,7 @@
       "type": "Beginner",
       "audience": "",
       "tags": "beginner, ages 12+",
-      "description": "Tell your own stories as an interactive graphic novel!<br>\nYou�ll learn to use Ren�Py, a Python-based tool that enables you to easily create visual novels with words, images, and sounds. You can combine multi-media capabilities and digital storytelling, offering your readers the ability to engage with your story and make choices that affect the outcome!"
+      "description": "Tell your own stories as an interactive graphic novel!<br>You'll learn to use Ren'Py, a Python-based tool that enables you to easily create visual novels with words, images, and sounds. You can combine multi-media capabilities and digital storytelling, offering your readers the ability to engage with your story and make choices that affect the outcome!"
     },
     {
       "id": 91,
@@ -270,7 +270,7 @@
       "type": "All",
       "audience": "All",
       "tags": "project management, agile",
-      "description": "When developing a new product or feature, getting it into the hands of users provides the best insight and feedback. This is critically valuable to an early stage startup where you are trying to decide if your idea is sound, if the product usable and if there is a market fit. <br><br>Using VidMob as a case study we will talk about how we went from launching a consumer-focused mobile experience in a few months to becoming a creative partner for the largest brands running video on Facebook, Instagram, Snapchat, Pinterest and Twitter in less than 2 years. <br><br>The four topics we will cover in this discussion are:<br><br>### Identifying the MVP and why that is important<br>* Intro<br>* Identify core functions that enable clients to use your product<br>* Find honest friends, mentors, and advisors to provide feedback<br><br>### Managing limited resources<br>* Adopt agile early (even just loosely)<br>* Identify complexity quickly<br>* Don�t reinvent the wheel, use the cloud<br><br>### Manage technical debt<br>* DON�T over-engineer<br>* DO engineer for the future<br><br>### Be ready to pivot<br>* Listen to your users<br>* Be honest with the market fit<br>* Move quickly"
+      "description": "When developing a new product or feature, getting it into the hands of users provides the best insight and feedback. This is critically valuable to an early stage startup where you are trying to decide if your idea is sound, if the product usable and if there is a market fit. <br><br>Using VidMob as a case study we will talk about how we went from launching a consumer-focused mobile experience in a few months to becoming a creative partner for the largest brands running video on Facebook, Instagram, Snapchat, Pinterest and Twitter in less than 2 years. <br><br>The four topics we will cover in this discussion are:<br><br>### Identifying the MVP and why that is important<br>* Intro<br>* Identify core functions that enable clients to use your product<br>* Find honest friends, mentors, and advisors to provide feedback<br><br>### Managing limited resources<br>* Adopt agile early (even just loosely)<br>* Identify complexity quickly<br>* Don�t reinvent the wheel, use the cloud<br><br>### Manage technical debt<br>* DON'T over-engineer<br>* DO engineer for the future<br><br>### Be ready to pivot<br>* Listen to your users<br>* Be honest with the market fit<br>* Move quickly"
     },
     {
       "id": 16,
