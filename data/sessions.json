@@ -579,22 +579,6 @@
       "description": "Do you ever feel like you are running a rat race, with no end in sight? Well that's exactly how my wife and I felt. Finally, I started applying what I was doing professionally into our every day lives. At first, it was a failure, but only because I didn't communicate the idea well enough to her. My second attempt went a lot better, and we now have multiple kanban's near our pantry as well as a couple of calendar chalk boards. Having this in our lives, has changed the way we communicate with each other, as well as making sure we aren't over committed in our lives. We also are working on implementing the way we budget into this lifestyle. Our sprints are for 1 week, so we do our sprint planning on Sundays, as well as retrospectives. We have a daily meeting when possible, but with our boards, we update them as soon as we accomplish our tasks or chores. We even have a backlog on our weekly board to pursue dreams of things like going to Disneyland, or even as simple as finding time to clean out our vehicles. <br><br>I am so passionate about this Agile Lifestyle, that I am hoping to have my book published by March of this year! I look forward to hopefully talking about this at your event this year. "
     },
     {
-      "id": 44,
-      "order": "3/18/18 10:00",
-      "57": 1,
-      "name": "How do I scikit-learn? A crash course into the Python scikit-learn API.",
-      "speaker": "Lorena Mesa",
-      "email": "me@lorenamesa.com",
-      "day": "Sunday",
-      "start": "10:00AM",
-      "end": "10:45AM",
-      "room": "321",
-      "type": "All",
-      "audience": "All",
-      "tags": "basics, python, workshop, machine learning, data science",
-      "description": "Python per Stack Overflow's November 2017 report is the fastest growing major programming language. With the rise of interest in machine learning, data science, and artificial intelligence Python is a no brainer. Python's scientific adoption rate is high for a variety of reasons, including it's robust functionality due to the richness of the Python Standard Library, its ability to easily integrate with other languages, and simple to learn, easy to read syntax. For any budding scientist Python's scientific packages are rapidly become an industry standard. In the space of machine learning and data science scikit-learn is Python's library for machine learning algorithms.<br><br>In this talk we'll review the basics of the scikit-learn API, walking through a toy machine learning example, and making the case for why scikit-learn is so powerful."
-    },
-    {
       "id": 72,
       "order": "3/18/18 10:00",
       "57": 1,
@@ -657,22 +641,6 @@
       "audience": "Beginner",
       "tags": "JavaScript",
       "description": "I am going to cover the following topics:<br>- where JavaScript is used today: browser, mobile, server, desktop, build scripts, service workers.<br>- how new features are added to the language<br>- main tools for testing, linting and bundling code"
-    },
-    {
-      "id": 58,
-      "order": "3/18/18 11:00",
-      "57": 1,
-      "name": "Roster Building 101",
-      "speaker": "Jon Robinson",
-      "email": "jon@theqaconsultancy.com",
-      "day": "Sunday",
-      "start": "11:00AM",
-      "end": "11:45AM",
-      "room": "329",
-      "type": "All",
-      "audience": "All",
-      "tags": "qa, teams, development, leadership, agile",
-      "description": "One of the hardest aspects of any managers job is to build a top-notch team, and it has been said that we should view our teams more like professional athletes vs as family members. Sometimes you inherit your team members, and sometimes you have to hire them, but if we take the same approach that leaders in professional sports take, we can build out a team that wins every time.<br><br>In this session, we will walk through the various elements that go into this approach. From defining the roles you need to end up with, to learning how to start assessing your team members in a way that results in the right people in the right roles, you will get a crash course on putting together a team using the same basic principles that are used in the pros.<br><br>*Key Takeaways:*<br>* How to define the team you need vs team you have<br>* How to determine the best type of person for each role you need<br>* An understanding of how to assess current team members or potential hires<br>* How to recognize good team fit vs bad<br>* How to recognize when change is needed"
     },
     {
       "id": 85,
