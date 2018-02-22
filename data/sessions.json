@@ -349,7 +349,7 @@
       "room": "135",
       "type": "Intermediate",
       "audience": "Intermediate",
-      "tags": "AWS, Kenesis, Lambda, DynamoDB, S3",
+      "tags": "AWS, Kinesis, Lambda, DynamoDB, S3",
       "description": "In this talk, I'll show how to set up an AWS Kinesis stream, hook it<br>up to AWS Lambda, and store the data into DynamoDB and S3.<br>Then, we'll look at accessing the S3 data using Athena.<br><br>No AWS experience is necessary, but there are a lot of moving parts,<br>so some technical background will be helpful."
     },
     {
