@@ -101,7 +101,7 @@
       "order": "3/17/18 10:00",
       "57": 1,
       "name": "Intro to Scratch",
-      "speaker": "Holyoke Codes",
+      "speaker": "Joe Bacal and Holyoke Codes",
       "email": "andrew@elytra.net",
       "day": "Saturday",
       "start": "10:00AM",
@@ -110,7 +110,7 @@
       "type": "Beginner",
       "audience": "",
       "tags": "beginner, kids 7+ and families)",
-      "description": "Learn to code with this simple, powerful visual programming environment!<br><br>With Scratch, you can program your own interactive stories, games, and animations -- and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively -- essential skills for life in the 21st century.<br><br>At this introductory workshop, we�ll help students create free accounts and explain the basics of sprites, costumes, and coding with visual blocks to create engaging, interactive stories. Students will learn to incorporate rich, multimedia into their projects."
+      "description": "Learn to code with this simple, powerful visual programming environment!<br><br>With Scratch, you can program your own interactive stories, games, and animations -- and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively -- essential skills for life in the 21st century.<br><br>At this introductory workshop, we'll help students create free accounts and explain the basics of sprites, costumes, and coding with visual blocks to create engaging, interactive stories. Students will learn to incorporate rich, multimedia into their projects.<br/><br/>Please <a href='https://holyokecodes.org/events/intro-to-scratch/'>register</a> since space is limited. "
     },
     {
       "id": 90,
@@ -229,7 +229,7 @@
       "order": "3/17/18 13:00",
       "57": 1,
       "name": "Intro to RenPy",
-      "speaker": "Holyoke Codes",
+      "speaker": "Amy Lashley and Holyoke Codes",
       "email": "andrew@elytra.net",
       "day": "Saturday",
       "start": "1:00PM",
@@ -238,7 +238,7 @@
       "type": "Beginner",
       "audience": "",
       "tags": "beginner, ages 12+",
-      "description": "Tell your own stories as an interactive graphic novel!<br>You'll learn to use Ren'Py, a Python-based tool that enables you to easily create visual novels with words, images, and sounds. You can combine multi-media capabilities and digital storytelling, offering your readers the ability to engage with your story and make choices that affect the outcome!"
+      "description": "Tell your own stories as an interactive graphic novel!<br><br/>You'll learn to use Ren'Py, a Python-based tool that enables you to easily create visual novels with words, images, and sounds. You can combine multi-media capabilities and digital storytelling, offering your readers the ability to engage with your story and make choices that affect the outcome! <br/><br/>Please <a href='https://holyokecodes.org/events/graphic-novels-renpy/'>register</a> since space is limited."
     },
     {
       "id": 91,
@@ -421,7 +421,7 @@
       "order": "3/17/18 15:00",
       "57": 1,
       "name": "Intro to HTML / CSS / JS",
-      "speaker": "Holyoke Codes",
+      "speaker": "Joe Bacal and Holyoke Codes",
       "email": "andrew@elytra.net",
       "day": "Saturday",
       "start": "3:00PM",
@@ -430,7 +430,7 @@
       "type": "Beginner",
       "audience": "",
       "tags": "beginner, adult & teens",
-      "description": "The web is built with HTML!<br>\nIn this workshop you will learn how to create webpages with Hypertext Markup Language (HTML) and make them look nice with Cascading Style Sheets (CSS). We�ll add a bit of Javascript to make them interactive!<br>\nNo previous experience is necessary, but you should be comfortable typing with a keyboard."
+      "description": "The web is built with HTML!<br><br/>In this workshop you will learn how to create webpages with Hypertext Markup Language (HTML) and make them look nice with Cascading Style Sheets (CSS). We'll add a bit of Javascript to make them interactive!<br><br/>No previous experience is necessary, but you should be comfortable typing with a keyboard.<br/><br/>Please <a href='https://holyokecodes.org/events/intro-html-css-javascript/'>register</a> since space is limited."
     },
     {
       "id": 5,
