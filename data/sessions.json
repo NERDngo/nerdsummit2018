@@ -739,22 +739,6 @@
       "description": "As a condensed version of an \"Introduction to Typography\" course, this talk will look at the basic concepts of typography at the scale of letterforms, words, paragraphs, and pages. Starting with a brief overview of the history and classification of fonts and their historical uses, we'll then look at some of the ways fonts are used for expression and to carry meaning and voice. Finally, we'll talk about resources for learning more about typography from a design and practical perspective, including recommended exercises and sources for fonts."
     },
     {
-      "id": 19,
-      "order": "3/18/18 14:00",
-      "57": 1,
-      "name": "Distributed systems using Rails",
-      "speaker": "Tony Vincent T.Y",
-      "email": "tony@redpanthers.co",
-      "day": "Sunday",
-      "start": "2:00PM",
-      "end": "2:45PM",
-      "room": "321",
-      "type": "All",
-      "audience": "All",
-      "tags": "microservices, distributed architecture",
-      "description": "A distributed architecture gives separation of concerns, isolation of performance issues and scale at ease. OK what about data? For a truly distributed architecture to be consistent, there should be reliable data exchange between systems and that's where we need tools like RabbitMQ, Apache Kafka etc comes into play. This talk covers the following topics in 30 mins<br><br>- Why distributed microservices<br>- The publisher-subscriber architecture<br>- Message queues in rails<br>- Challenges in choosing a distributed microservices architecture for Rails<br>- The Pros and cons of this architecture<br>- A few interesting stuff I learned using RabbitMQ with Rails"
-    },
-    {
       "id": 57,
       "order": "3/18/18 14:00",
       "57": 1,
