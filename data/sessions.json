@@ -65,22 +65,6 @@
       "description": "Relieve Symptoms Now!<br><br>Are you struggling with end of life care?  Has your website left you feeling sad, prickly, and itching to upgrade?  <br><br>There is help.<br><br>While not quite a case study, we will speak through the following as if it were:<br><br>How we use Drupal<br><br>- Our challenges, expressed as symptoms, anecdotes, and relatable experiences<br><br>A timeline of our journey<br>- Redefining fixes and milestones<br>- How core business decisions and organizational structure were impacted<br><br>Learnable moments<br>- Key collaborations with wonderful vendors, industry experts and the Drupal community<br><br>Addressing barriers <br>- How we made the incredible leap in funding, structure, and confidence<br><br>This is not just your normal prescriptive session filled with best practices and lists.  Join us and learn more about how you can cure your Drupal 8 deficiency today(ish)!<br>"
     },
     {
-      "id": 37,
-      "order": "3/17/18 10:00",
-      "57": 1,
-      "name": "How to Do Code Reviews Like a Human",
-      "speaker": "Michael Lynch",
-      "email": "git@mtlynch.io",
-      "day": "Saturday",
-      "start": "10:00AM",
-      "end": "10:45AM",
-      "room": "329",
-      "type": "All",
-      "audience": "All",
-      "tags": "code-reviews, teamwork",
-      "description": "Are code reviews a source of tension on your team? Do they lead to conflict, bikeshedding, or wasted time?<br><br>Most of the discussion we hear about code reviews is technical. We focus myopically on minimizing cost and maximizing bug discoveries. But reviews are as much a social exercise as a technical one. They're an opportunity for teammates to share knowledge and bond through collaboration. That can't happen if people are strangling each other over where to place the curly braces.<br><br>In this talk, you�ll learn practical techniques your team can use to improve communication and minimize conflict during code reviews. I�ll talk about:<br><br>* Reducing human effort of reviews through automation<br>* Increasing your team�s review velocity<br>* Giving sincere praise<br>* Framing discussions for constructive debate<br>* Mitigating stalemates"
-    },
-    {
       "id": 75,
       "order": "3/17/18 10:00",
       "57": 1,
@@ -95,22 +79,6 @@
       "audience": "All",
       "tags": "basics, accessibility",
       "description": "Website accessibility is a topic that is getting more attention, both from people who create code and build sites and from people who are in the market for website development services. While the interest in building accessible sites has arisen in part from a need for some organizations to comply with federal regulations in order to satisfy funding requirements, other organizations have embraced accessibility as a way to make their message available to a broader population. This presentation will provide a quick introduction of Section 508 and the WCAG 2.0 framework with its layers of guidance. Then we will take a look at some resources and tools for evaluating accessibility. If time permits, we will wrap up with some discussion among session attendees about how successful (or not) we are at achieving our accessibility goals and what is (or is not) working for each of us. This talk will not be focused on specific code for making sites accessible, but on the means for evaluating code. However, coding tips, tricks and best practices based on personal experiences can be shared by participants during the discussion."
-    },
-    {
-      "id": 86,
-      "order": "3/17/18 10:00",
-      "57": 1,
-      "name": "Intro to Scratch",
-      "speaker": "Joe Bacal and Holyoke Codes",
-      "email": "andrew@elytra.net",
-      "day": "Saturday",
-      "start": "10:00AM",
-      "end": "11:45AM",
-      "room": "325",
-      "type": "Beginner",
-      "audience": "",
-      "tags": "beginner, kids 7+ and families)",
-      "description": "Learn to code with this simple, powerful visual programming environment!<br><br>With Scratch, you can program your own interactive stories, games, and animations -- and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively -- essential skills for life in the 21st century.<br><br>At this introductory workshop, we'll help students create free accounts and explain the basics of sprites, costumes, and coding with visual blocks to create engaging, interactive stories. Students will learn to incorporate rich, multimedia into their projects.<br/><br/>Please <a href='https://holyokecodes.org/events/intro-to-scratch/'>register</a> since space is limited. "
     },
     {
       "id": 90,
@@ -129,20 +97,36 @@
       "description": "Starting a new project can be intimidating. There are so many options for frameworks, build tools, databases, and many other aspects of the project. If you want this project to be around for a while, how do you make sure you make the right choices that will stand the tests of time?  Let's say you have a great idea and have the opportunity to start from scratch with little or no help. It could be building a new product for your employer or starting your own company. Either way, you need to make sure it will succeed and be able to grow. In this talk I will go through some of the decisions you might have to make and walk you through how you might scale it to to be a highly-available, high-performance web application."
     },
     {
-      "id": 20,
-      "order": "3/17/18 11:00",
+      "id": 86,
+      "order": "3/17/18 10:00",
       "57": 1,
-      "name": "Research is the Glue",
-      "speaker": "Matthew Eng",
-      "email": "engmatthewthomas@gmail.com",
+      "name": "Intro to Scratch",
+      "speaker": "Joe Bacal and Holyoke Codes",
+      "email": "andrew@elytra.net",
       "day": "Saturday",
-      "start": "11:00AM",
+      "start": "10:00AM",
       "end": "11:45AM",
-      "room": "221",
-      "type": "Intermediate",
-      "audience": "Intermediate",
-      "tags": "Agile, UX, Research",
-      "description": "\"Teams form bad habits that they need to break\"<br>-Lucy Dotson<br>When IBM started its design division, it adopted and leveraged design thinking to propel a culture of design throughout its organization. The teams on the Platform used design thinking and research to answer squad specific questions. We had very little guidance on our practices. Nor did we coordinate with our developers or product managers to triangulate our efforts to arrive at a conclusion all parties agreed with.<br> <br>While we used design thinking methodologies to bring teams together for project planning workshops, the teams consistently struggled to align on a shared vision. As deadlines approached, poorly established communication protocols broke down and misunderstandings multiplied. Our relationships suffered across design, development and product management as we each pushed our own ideas of the right path forward. Design Thinking methods alone could not help us unify towards a shared vision.<br>Early in 2017, I was tapped to spin up and lead a research team to not only open a channel with our existing customers but to also shine a light on the other data sources and practices that influence each member of the tribe. Over the year, we rethought our practices to be more inclusive of the other members of the tribe with the goal of discovering and synthesizing data from both qualitative and quantitative sources together to tighten the decision and feedback loop.  <br>In this case study, I will discuss<br>-Recognize the need to defuse and reset cross-disciplinary relationships<br>-Test and implement techniques for timely communication with large, cross-disciplinary non co-located teams<br>-Rethink our approach to cross-team workshops for planning, facilitating, and debriefing<br>-Decouple from design to bring development and product management closer<br>-Discover the common desire to find, digest, and process data across the tribe"
+      "room": "325",
+      "type": "Beginner",
+      "audience": "",
+      "tags": "beginner, kids 7+ and families)",
+      "description": "Learn to code with this simple, powerful visual programming environment!<br><br>With Scratch, you can program your own interactive stories, games, and animations -- and share your creations with others in the online community. Scratch helps young people learn to think creatively, reason systematically, and work collaboratively -- essential skills for life in the 21st century.<br><br>At this introductory workshop, we'll help students create free accounts and explain the basics of sprites, costumes, and coding with visual blocks to create engaging, interactive stories. Students will learn to incorporate rich, multimedia into their projects.<br/><br/>Please <a href='https://holyokecodes.org/events/intro-to-scratch/'>register</a> since space is limited. "
+    },
+    {
+      "id": 37,
+      "order": "3/17/18 10:00",
+      "57": 1,
+      "name": "How to Do Code Reviews Like a Human",
+      "speaker": "Michael Lynch",
+      "email": "git@mtlynch.io",
+      "day": "Saturday",
+      "start": "10:00AM",
+      "end": "10:45AM",
+      "room": "329",
+      "type": "All",
+      "audience": "All",
+      "tags": "code-reviews, teamwork",
+      "description": "Are code reviews a source of tension on your team? Do they lead to conflict, bikeshedding, or wasted time?<br><br>Most of the discussion we hear about code reviews is technical. We focus myopically on minimizing cost and maximizing bug discoveries. But reviews are as much a social exercise as a technical one. They're an opportunity for teammates to share knowledge and bond through collaboration. That can't happen if people are strangling each other over where to place the curly braces.<br><br>In this talk, you�ll learn practical techniques your team can use to improve communication and minimize conflict during code reviews. I�ll talk about:<br><br>* Reducing human effort of reviews through automation<br>* Increasing your team�s review velocity<br>* Giving sincere praise<br>* Framing discussions for constructive debate<br>* Mitigating stalemates"
     },
     {
       "id": 76,
@@ -159,6 +143,38 @@
       "audience": "All",
       "tags": "Job market, Interviews, Tech jobs",
       "description": "- The current job market in this area/average salaries<br>- Types of jobs available/types of companies <br>- The difference between W2 and Independent Contractor engagements<br>- How/where to look for a job<br>- Interview preparation/Interview best practices"
+    },
+    {
+      "id": 89,
+      "order": "3/17/18 11:00",
+      "57": 1,
+      "name": "Make your own Snapchat filter",
+      "speaker": "Jacob Bashista",
+      "email": "jacob@holyokecodes.org",
+      "day": "Saturday",
+      "start": "11:00AM",
+      "end": "11:45AM",
+      "room": "145",
+      "type": "All",
+      "audience": "",
+      "tags": "Lens Studio",
+      "description": "Learn how to work with and use Snapchat Lens Studio, a tool that allows anyone to make their own custom Snapchat filters. In this talk you will learn the basics of each custom filter in Snapchat, and how to navigate Lens Studio."
+    },
+    {
+      "id": 20,
+      "order": "3/17/18 11:00",
+      "57": 1,
+      "name": "Research is the Glue",
+      "speaker": "Matthew Eng",
+      "email": "engmatthewthomas@gmail.com",
+      "day": "Saturday",
+      "start": "11:00AM",
+      "end": "11:45AM",
+      "room": "221",
+      "type": "Intermediate",
+      "audience": "Intermediate",
+      "tags": "Agile, UX, Research",
+      "description": "\"Teams form bad habits that they need to break\"<br>-Lucy Dotson<br>When IBM started its design division, it adopted and leveraged design thinking to propel a culture of design throughout its organization. The teams on the Platform used design thinking and research to answer squad specific questions. We had very little guidance on our practices. Nor did we coordinate with our developers or product managers to triangulate our efforts to arrive at a conclusion all parties agreed with.<br> <br>While we used design thinking methodologies to bring teams together for project planning workshops, the teams consistently struggled to align on a shared vision. As deadlines approached, poorly established communication protocols broke down and misunderstandings multiplied. Our relationships suffered across design, development and product management as we each pushed our own ideas of the right path forward. Design Thinking methods alone could not help us unify towards a shared vision.<br>Early in 2017, I was tapped to spin up and lead a research team to not only open a channel with our existing customers but to also shine a light on the other data sources and practices that influence each member of the tribe. Over the year, we rethought our practices to be more inclusive of the other members of the tribe with the goal of discovering and synthesizing data from both qualitative and quantitative sources together to tighten the decision and feedback loop.  <br>In this case study, I will discuss<br>-Recognize the need to defuse and reset cross-disciplinary relationships<br>-Test and implement techniques for timely communication with large, cross-disciplinary non co-located teams<br>-Rethink our approach to cross-team workshops for planning, facilitating, and debriefing<br>-Decouple from design to bring development and product management closer<br>-Discover the common desire to find, digest, and process data across the tribe"
     },
     {
       "id": 52,
@@ -193,22 +209,6 @@
       "description": "Anyone that has been to a conference knows that Live Demo�۪s are the double edged sword of any speaker. If the Live Demo goes off without a hitch, the speaker is a rockstar and the audience will sing his praises. If the Demo crashes and burns in a heap at the podium, the speaker will be drawn and quartered by the audience. So, live demos can be challenging and if your going to take the risk of doing a live demo why not amp up the difficultly level by adding a topic like Translation.<br> <br> This live demo will be something of a working session where we will use a local Drupal environment to show the following three things:<br> <br>  - How to get Drupal Multilingual setup from a basic Drupal 8 Install<br>  - How to translate Items using Drupal�۪s built-in Translation System.<br>  - How to integrate with a translation service like Lingotek to do easy machine translation<br> <br> To participate with this talk you should have the following:<br> <br> - Whatever local environment you want (MAMP, Vagrant, etc)<br> - A base Drupal install built with Drupal Composer (If you're more comfortable using Drush feel free!)<br> - A basic knowledge of Drupal 8 and how to install modules via Composer<br> The above are not needed if you just want to come, watch and ask questions. However, if you would like to leave with a fully working (hopefully) translation demo you can show your friends, come prepared!"
     },
     {
-      "id": 89,
-      "order": "3/17/18 11:00",
-      "57": 1,
-      "name": "Make your own Snapchat filter",
-      "speaker": "Jacob Bashista",
-      "email": "jacob@holyokecodes.org",
-      "day": "Saturday",
-      "start": "11:00AM",
-      "end": "11:45AM",
-      "room": "145",
-      "type": "All",
-      "audience": "",
-      "tags": "Lens Studio",
-      "description": "Learn how to work with and use Snapchat Lens Studio, a tool that allows anyone to make their own custom Snapchat filters. In this talk you will learn the basics of each custom filter in Snapchat, and how to navigate Lens Studio."
-    },
-    {
       "id": null,
       "order": "3/17/18 12:00",
       "57": 1,
@@ -223,22 +223,6 @@
       "audience": "",
       "tags": "Eat!",
       "description": "Sandwich Platters (Turkey & Club, Italian, Ham & Roast beef, Chicken Salad & Tuna Salad, Veggie & Caprese)<br>Sandwich Platter (all sandwiches VEGAN & GLUTEN FREE)<br>Sliced Fruit Platter (VG, GF, DF)<br>Lemonade, Water"
-    },
-    {
-      "id": 87,
-      "order": "3/17/18 13:00",
-      "57": 1,
-      "name": "Intro to RenPy",
-      "speaker": "Amy Lashley and Holyoke Codes",
-      "email": "andrew@elytra.net",
-      "day": "Saturday",
-      "start": "1:00PM",
-      "end": "2:45PM",
-      "room": "325",
-      "type": "Beginner",
-      "audience": "",
-      "tags": "beginner, ages 12+",
-      "description": "Tell your own stories as an interactive graphic novel!<br><br/>You'll learn to use Ren'Py, a Python-based tool that enables you to easily create visual novels with words, images, and sounds. You can combine multi-media capabilities and digital storytelling, offering your readers the ability to engage with your story and make choices that affect the outcome! <br/><br/>Please <a href='https://holyokecodes.org/events/graphic-novels-renpy/'>register</a> since space is limited."
     },
     {
       "id": 91,
@@ -257,6 +241,22 @@
       "description": "A Microsoft Developer & Evangelist in Colorado, Jerry teaches and speaks on Mobility and Enterprise development. He started his career delivering data-centric solutions while \"database developer\" was still a novel term. He received a civilian Naval Commendation for security work, preceding his work for the startup that became Microsoft Dynamics. For two decades now, Jerry has built solutions and taught design patterns and UX best practices to thousands of developers around the world. Jerry spends the bulk of his free time teaching his three daughters Star Trek character backstories and episode plots."
     },
     {
+      "id": 87,
+      "order": "3/17/18 13:00",
+      "57": 1,
+      "name": "Intro to RenPy",
+      "speaker": "Amy Lashley and Holyoke Codes",
+      "email": "andrew@elytra.net",
+      "day": "Saturday",
+      "start": "1:00PM",
+      "end": "2:45PM",
+      "room": "325",
+      "type": "Beginner",
+      "audience": "",
+      "tags": "beginner, ages 12+",
+      "description": "Tell your own stories as an interactive graphic novel!<br><br/>You'll learn to use Ren'Py, a Python-based tool that enables you to easily create visual novels with words, images, and sounds. You can combine multi-media capabilities and digital storytelling, offering your readers the ability to engage with your story and make choices that affect the outcome! <br/><br/>Please <a href='https://holyokecodes.org/events/graphic-novels-renpy/'>register</a> since space is limited."
+    },
+    {
       "id": 2,
       "order": "3/17/18 14:00",
       "57": 1,
@@ -271,6 +271,22 @@
       "audience": "All",
       "tags": "project management, agile",
       "description": "When developing a new product or feature, getting it into the hands of users provides the best insight and feedback. This is critically valuable to an early stage startup where you are trying to decide if your idea is sound, if the product usable and if there is a market fit. <br><br>Using VidMob as a case study we will talk about how we went from launching a consumer-focused mobile experience in a few months to becoming a creative partner for the largest brands running video on Facebook, Instagram, Snapchat, Pinterest and Twitter in less than 2 years. <br><br>The four topics we will cover in this discussion are:<br><br>### Identifying the MVP and why that is important<br>* Intro<br>* Identify core functions that enable clients to use your product<br>* Find honest friends, mentors, and advisors to provide feedback<br><br>### Managing limited resources<br>* Adopt agile early (even just loosely)<br>* Identify complexity quickly<br>* Don't reinvent the wheel, use the cloud<br><br>### Manage technical debt<br>* DON'T over-engineer<br>* DO engineer for the future<br><br>### Be ready to pivot<br>* Listen to your users<br>* Be honest with the market fit<br>* Move quickly"
+    },
+    {
+      "id": 32,
+      "order": "3/17/18 14:00",
+      "57": 1,
+      "name": "Consumption is Fractal: Open Source Sustainability",
+      "speaker": "Noah Kantrowitz",
+      "email": "noah@coderanger.net",
+      "day": "Saturday",
+      "start": "2:00PM",
+      "end": "2:45PM",
+      "room": "145",
+      "type": "All",
+      "audience": "All",
+      "tags": "open source, foss, funding, sustainability",
+      "description": "While open-source sustainability has been a common topic in the hallways tracks and dev channels of major projects for years, the Heartbleed vulnerability in 2014 catapulted the topic in to the spotlight. Since then we've seen many discussions about how open-source should be supported for the long term, but rarely much action beyond a few token donations and some long Twitter threads. In this talk we'll look at an overview of what kinds of projects are out there, how sustainability works in real terms, and what techniques have worked or not worked over the years.<br>"
     },
     {
       "id": 21,
@@ -321,22 +337,6 @@
       "description": "GraphQL is a query-language for APIs as opposed to databases.  GraphQL allows for an API to share a common schema with a client, including type-checking and documentation.<br><br>Relay Modern is a frontend framework that consumes a GraphQL schema and allows you to declare data dependencies on your React components.  These dependencies get merged into a single request on page-load, minimizing network traffic.  Moreover, the results of the queries are stored in a client-side cache which makes navigating a single-page application remarkably fast.<br><br>The schema for the GraphQL API and client can be automatically generated from a specially-designed Postgres database (and optional API 'plugins' written in NodeJS for things like sending emails, talking to external APIs, etc).  The CRUD fields (fields are a bit like an endpoint in REST, except they're quite different) are built for all tables and relations, and the queries include pagination, filtering, ordering, and more.  <br><br>With GraphQL, Relay Modern, and Postgraphile, a modern and performant API and frontend can be constructed fairly quickly.  Moreover, it's much easier to maintain a GraphQL API than it is a REST API as you don't have to make new endpoints all of the time, and you never have multiple versions of the same API (only deprecated fields)<br><br>The maintainability and cleanliness of GraphQL, the declarative data dependencies of Relay Modern, and the API-autogeneration-introspection of Postgraphile combine to deliver an amazing developer experience that I'm excited to share with you :)"
     },
     {
-      "id": 32,
-      "order": "3/17/18 14:00",
-      "57": 1,
-      "name": "Consumption is Fractal: Open Source Sustainability",
-      "speaker": "Noah Kantrowitz",
-      "email": "noah@coderanger.net",
-      "day": "Saturday",
-      "start": "2:00PM",
-      "end": "2:45PM",
-      "room": "145",
-      "type": "All",
-      "audience": "All",
-      "tags": "open source, foss, funding, sustainability",
-      "description": "While open-source sustainability has been a common topic in the hallways tracks and dev channels of major projects for years, the Heartbleed vulnerability in 2014 catapulted the topic in to the spotlight. Since then we've seen many discussions about how open-source should be supported for the long term, but rarely much action beyond a few token donations and some long Twitter threads. In this talk we'll look at an overview of what kinds of projects are out there, how sustainability works in real terms, and what techniques have worked or not worked over the years.<br>"
-    },
-    {
       "id": 9,
       "order": "3/17/18 15:00",
       "57": 1,
@@ -351,38 +351,6 @@
       "audience": "Intermediate",
       "tags": "AWS, Kinesis, Lambda, DynamoDB, S3",
       "description": "In this talk, I'll show how to set up an AWS Kinesis stream, hook it<br>up to AWS Lambda, and store the data into DynamoDB and S3.<br>Then, we'll look at accessing the S3 data using Athena.<br><br>No AWS experience is necessary, but there are a lot of moving parts,<br>so some technical background will be helpful."
-    },
-    {
-      "id": 55,
-      "order": "3/17/18 15:00",
-      "57": 1,
-      "name": "How to Choose an Open Source Licence",
-      "speaker": "Michael Miles",
-      "email": "mikemiles86@gmail.com",
-      "day": "Saturday",
-      "start": "3:00PM",
-      "end": "3:45PM",
-      "room": "329",
-      "type": "All",
-      "audience": "All",
-      "tags": "open-source, licensing, basics",
-      "description": "Open source projects are unique in that they invite the world to use, improve and add onto them. Allowing the world to use that software to solve its problems.  To open-source your software and make it available for the world to improve you need to add an open-source license. But with many types of open-source licenses to choose from, how do you select the \"right one\"? This presentation walks through the values of creating open-source software and how to select the right open-source license for your project. <br><br>Attendees of this session will walk out with three fundamental lessons: <br>* The value that open-source software provides to the world.<br>* An understanding of the different between the three(3) main types of open-source licenses available. <br>* How to select the right open-source license for your project.<br>"
-    },
-    {
-      "id": 78,
-      "order": "3/17/18 15:00",
-      "57": 1,
-      "name": "Respect the classics, man.",
-      "speaker": "Andrew Predmore",
-      "email": "rolo@irolo.net",
-      "day": "Saturday",
-      "start": "3:00PM",
-      "end": "3:45PM",
-      "room": "321",
-      "type": "All",
-      "audience": "All",
-      "tags": "project management, agile",
-      "description": "Mark Twain once said, \"A classic is something that everybody wants to have read and nobody wants to read.\"<br> <br> Presented in a lighthearted manner, this session will introduce several classic programming books, and hopefully inspire you to actually want to read them. You will discover that many of the big challenges you are grappling with are not new, and that there are solutions. The \"classics\" cover high-level concepts in project management and programming. No technical experience is necessary, yet even experts will probably learn something exciting and new.<br> <br> Some of the books that will be covered include:<br> <br> - Peopleware<br> - The Mythical Man Month<br> - Design Patterns<br> - The Cathedral and The Bazaar<br> - And more?<br> Time will be provided for the audience to participate in a discussion driven by their interests."
     },
     {
       "id": 83,
@@ -401,6 +369,22 @@
       "description": "The future is Gutenberg and it is coming. Will you be ready? Gutenberg is a whole new editing experience for WordPress. If you are a WordPress developer you will not want to miss this talk where we will dive into the world of building your own Guten Blocks."
     },
     {
+      "id": 78,
+      "order": "3/17/18 15:00",
+      "57": 1,
+      "name": "Respect the classics, man.",
+      "speaker": "Andrew Predmore",
+      "email": "rolo@irolo.net",
+      "day": "Saturday",
+      "start": "3:00PM",
+      "end": "3:45PM",
+      "room": "321",
+      "type": "All",
+      "audience": "All",
+      "tags": "project management, agile",
+      "description": "Mark Twain once said, \"A classic is something that everybody wants to have read and nobody wants to read.\"<br> <br> Presented in a lighthearted manner, this session will introduce several classic programming books, and hopefully inspire you to actually want to read them. You will discover that many of the big challenges you are grappling with are not new, and that there are solutions. The \"classics\" cover high-level concepts in project management and programming. No technical experience is necessary, yet even experts will probably learn something exciting and new.<br> <br> Some of the books that will be covered include:<br> <br> - Peopleware<br> - The Mythical Man Month<br> - Design Patterns<br> - The Cathedral and The Bazaar<br> - And more?<br> Time will be provided for the audience to participate in a discussion driven by their interests."
+    },
+    {
       "id": 88,
       "order": "3/17/18 15:00",
       "57": 1,
@@ -417,20 +401,20 @@
       "description": "The web is built with HTML!<br><br/>In this workshop you will learn how to create webpages with Hypertext Markup Language (HTML) and make them look nice with Cascading Style Sheets (CSS). We'll add a bit of Javascript to make them interactive!<br><br/>No previous experience is necessary, but you should be comfortable typing with a keyboard.<br/><br/>Please <a href='https://holyokecodes.org/events/intro-html-css-javascript/'>register</a> since space is limited."
     },
     {
-      "id": 5,
-      "order": "3/17/18 16:00",
+      "id": 55,
+      "order": "3/17/18 15:00",
       "57": 1,
-      "name": "Docker for Development",
-      "speaker": "Geri Jennings",
-      "email": "izbicki@gmail.com",
+      "name": "How to Choose an Open Source Licence",
+      "speaker": "Michael Miles",
+      "email": "mikemiles86@gmail.com",
       "day": "Saturday",
-      "start": "4:00PM",
-      "end": "4:45PM",
-      "room": "321",
-      "type": "Intermediate",
-      "audience": "Intermediate",
-      "tags": "docker, development",
-      "description": "In this talk, I'll be setting up a simple (pre-written) web application using Docker. At first, only a single container will be required, but as the app becomes more complex we'll add a network of containers and spin them up using Docker Compose. Time permitting, we may talk briefly about how Docker can be leveraged to make setting up a CI / CD pipeline easier (using Jenkins as a reference). In general, we will seek to demonstrate how Docker can be used to easily get fast feedback on the software that you write - does it work? What does it look like in a browser? "
+      "start": "3:00PM",
+      "end": "3:45PM",
+      "room": "329",
+      "type": "All",
+      "audience": "All",
+      "tags": "open-source, licensing, basics",
+      "description": "Open source projects are unique in that they invite the world to use, improve and add onto them. Allowing the world to use that software to solve its problems.  To open-source your software and make it available for the world to improve you need to add an open-source license. But with many types of open-source licenses to choose from, how do you select the \"right one\"? This presentation walks through the values of creating open-source software and how to select the right open-source license for your project. <br><br>Attendees of this session will walk out with three fundamental lessons: <br>* The value that open-source software provides to the world.<br>* An understanding of the different between the three(3) main types of open-source licenses available. <br>* How to select the right open-source license for your project.<br>"
     },
     {
       "id": 59,
@@ -479,6 +463,22 @@
       "audience": "Intermediate",
       "tags": "php, drupal, javascript",
       "description": "Trying to tame a modern, fully-featured web application like Drupal can be an exercise in frustration. Whether you've been using a piece of software for years or you were just handed the codebase, many of the same problems can confound you.<br> <br> * Why are you seeing that piece of content there?<br> <br> * Why am I seeing a negative integer instead of a string from this function?<br> <br> * What does this PDOException in my Watchdog log even mean?<br> <br> In my career I've come to realize that the key to being a better developer is not having more tools in my toolbox, but in really knowing those tools - knowing not only when but how to deploy them to best solve the problem in front of me.<br> In this session we will be going over useful debugging tools and techniques that can help you start to see into the inner workings of all versions of Drupal, and really any codebase you might have in front of you. You will be better prepared to start building truly custom features into your projects and you'll be able to remain calm when you get the inevitable email that your site is showing the dreaded White Screen Of Death at 4:45pm on a Friday afternoon."
+    },
+    {
+      "id": 5,
+      "order": "3/17/18 16:00",
+      "57": 1,
+      "name": "Docker for Development",
+      "speaker": "Geri Jennings",
+      "email": "izbicki@gmail.com",
+      "day": "Saturday",
+      "start": "4:00PM",
+      "end": "4:45PM",
+      "room": "321",
+      "type": "Intermediate",
+      "audience": "Intermediate",
+      "tags": "docker, development",
+      "description": "In this talk, I'll be setting up a simple (pre-written) web application using Docker. At first, only a single container will be required, but as the app becomes more complex we'll add a network of containers and spin them up using Docker Compose. Time permitting, we may talk briefly about how Docker can be leveraged to make setting up a CI / CD pipeline easier (using Jenkins as a reference). In general, we will seek to demonstrate how Docker can be used to easily get fast feedback on the software that you write - does it work? What does it look like in a browser? "
     },
     {
       "id": 79,
