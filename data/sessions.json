@@ -659,38 +659,6 @@
       "description": "Cheese Pizza <br>Personal GLUTEN FREE Cheese Pizza <br>Fruit Platter (VG, GF, DF) <br>Lemonade, Water"
     },
     {
-      "id": 8,
-      "order": "3/18/18 13:00",
-      "57": 1,
-      "name": "Docksal: The Last Local Environment",
-      "speaker": "Les Peabody",
-      "email": "lpeabody@gmail.com",
-      "day": "Sunday",
-      "start": "1:00PM",
-      "end": "1:45PM",
-      "room": "221",
-      "type": "All",
-      "audience": "All",
-      "tags": "drupal, php, wordpress",
-      "description": "PHP development is a complex creature these days. How do you approach incorporating all of the technology needed to develop a pristine application? From the environment you need to run your application, to the software you need to build it, how do you connect it all together? You need a pluggable local environment for you and your team to work in, and a common project command library that will join your software tech and workflow together. Using Docksal, this is emphatically achievable.<br><br>Docksal is your new local environment. It's intuitive service architecture and configuration scheme enables you and your team to rapidly spin up local development environments with whatever services your application needs (Varnish, Solr, Memcache, etc.) without having to actually learn how to setup something like a complex Varnish server. More importantly, the configuration is stored alongside your project, ensuring that everyone on your team is developing in identical local environments, always.<br><br>After this talk, you will have learned how Docksal can simplify and streamline your PHP development process across your entire team. You will feel relief in knowing that the skill barrier and time investment to start using Docksal is in fact very low. Perhaps also you will feel a sense of relaxation, as your journey for finding the last local environment setup you'll ever use may finally be at an end."
-    },
-    {
-      "id": 22,
-      "order": "3/18/18 13:00",
-      "57": 1,
-      "name": "Build, Don't Code",
-      "speaker": "Chris Davis",
-      "email": "christophergdavis@gmail.com",
-      "day": "Sunday",
-      "start": "1:00PM",
-      "end": "1:45PM",
-      "room": "329",
-      "type": "Beginner",
-      "audience": "Beginner",
-      "tags": "Workshop, Web app, lean startup, full stack, apis",
-      "description": "During this workshop, I will walk through building a functional application and introduce the superpowers the platform Bubble provides non-developers.<br><br>Know how to code? Even better. Learn how Bubble can expedite your development process and enable quicker iterations."
-    },
-    {
       "id": 30,
       "order": "3/18/18 13:00",
       "57": 1,
@@ -707,6 +675,22 @@
       "description": "GraphQL puts a ton of power in the hands of client app developers. With it, all we need to do is ask our API for exactly the data we want, and we get it back in the shape we expect. While this might seem simple on the surface, it actually requires a significant shift in thinking about how data interactions happen between the client and the server. GraphQL offers a complete (and significantly better) replacement for REST, but since it's a whole new paradigm, it can sometimes be hard to approach.<br><br>In this talk, we'll take a look at what GraphQL is and what it offers developers. We'll demystify the GraphQL concepts that trip developers up most often and talk about how we can conceptualize them more simply while focusing on how to \"think in GraphQL\". To do this we�ll dive into schemas, types, queries, mutations, and more. By the end of the talk, you�ll know what is needed for creating your own GraphQL server and how to consume it from a client.<br><br>While this talk does assume some knowledge of client and server application relationships, a general knowledge of web technologies is really all that's required to benefit from it."
     },
     {
+      "id": 8,
+      "order": "3/18/18 13:00",
+      "57": 1,
+      "name": "Docksal: The Last Local Environment",
+      "speaker": "Les Peabody",
+      "email": "lpeabody@gmail.com",
+      "day": "Sunday",
+      "start": "1:00PM",
+      "end": "1:45PM",
+      "room": "221",
+      "type": "All",
+      "audience": "All",
+      "tags": "drupal, php, wordpress",
+      "description": "PHP development is a complex creature these days. How do you approach incorporating all of the technology needed to develop a pristine application? From the environment you need to run your application, to the software you need to build it, how do you connect it all together? You need a pluggable local environment for you and your team to work in, and a common project command library that will join your software tech and workflow together. Using Docksal, this is emphatically achievable.<br><br>Docksal is your new local environment. It's intuitive service architecture and configuration scheme enables you and your team to rapidly spin up local development environments with whatever services your application needs (Varnish, Solr, Memcache, etc.) without having to actually learn how to setup something like a complex Varnish server. More importantly, the configuration is stored alongside your project, ensuring that everyone on your team is developing in identical local environments, always.<br><br>After this talk, you will have learned how Docksal can simplify and streamline your PHP development process across your entire team. You will feel relief in knowing that the skill barrier and time investment to start using Docksal is in fact very low. Perhaps also you will feel a sense of relaxation, as your journey for finding the last local environment setup you'll ever use may finally be at an end."
+    },
+    {
       "id": 71,
       "order": "3/18/18 13:00",
       "57": 1,
@@ -721,6 +705,22 @@
       "audience": "Intermediate",
       "tags": "data, Clojure,",
       "description": "Concurrent processing of large amounts of data can be broken down into computational building blocks represented by functions like map, filter, reduce, fold, and combine. In this talk we will take a look at the semantics of these building blocks and how to compose them into more complex processing pipelines. This will give you a better understanding of frameworks like Hadoop MapReduce or Clojure's Reducers. The examples will be in Clojure, but no prior knowledge of Clojure is required."
+    },
+    {
+      "id": 22,
+      "order": "3/18/18 13:00",
+      "57": 1,
+      "name": "Build, Don't Code",
+      "speaker": "Chris Davis",
+      "email": "christophergdavis@gmail.com",
+      "day": "Sunday",
+      "start": "1:00PM",
+      "end": "1:45PM",
+      "room": "329",
+      "type": "Beginner",
+      "audience": "Beginner",
+      "tags": "Workshop, Web app, lean startup, full stack, apis",
+      "description": "During this workshop, I will walk through building a functional application and introduce the superpowers the platform Bubble provides non-developers.<br><br>Know how to code? Even better. Learn how Bubble can expedite your development process and enable quicker iterations."
     },
     {
       "id": 7,
@@ -755,22 +755,6 @@
       "description": "The term Gamification is a fairly recent term. It was first mentioned in 2002 and became a HUGE buzzword in 2011. Since 2011 the gamification industry has exploded into a billion dollar industry and companies many companies have realizing that gamification of operational processes can have a huge impact on productive and customer engagement; all of which impact the bottom line. Majority of the monetized work in gamification has been in sales, training, and compliance. Specifically, how to build in game elements into existing processes and building platforms built with gamification principles to increase compliance, productivity, and/or sales. Even though this topics are received the most attention as of late, gamification can be used in all areas of the business including product development and client services. Moreover, we can pair agile development processes with gamification principles and realize some amazing results. In this talk we will explore what gamification is, how it works, and how to incorporate it into an agile development proces. This talk will discuss powerful psychology motivations that we, as human beings are hardwired to respond to and how to stimulate them with game elements. Next we explore how to harass this effect to improve the agile software development process. Lastly we talk about some strategies for pairing gamification principles into your agile development process to increase team velocity, productivity, and boost morale. <br><br><br>"
     },
     {
-      "id": 4,
-      "order": "3/18/18 15:00",
-      "57": 1,
-      "name": "Internet For All",
-      "speaker": "Aaron E-J, Jamie Guerin, Thomas Grzybowski, Jim Drawe",
-      "email": "the@otherrealm.org",
-      "day": "Sunday",
-      "start": "3:00PM",
-      "end": "3:45PM",
-      "room": "321",
-      "type": "All",
-      "audience": "All",
-      "tags": "workshop, advanced, basics, Networking",
-      "description": "What would a cooperatively run internet, built by the community, for the community, that is fast, private, neutral, and innovative, look like?  Join us in shaping the network *we* want.  <br><br>The first part of this workshop will be an informative overview of the current state of internet in Western Mass and what options there are in structuring the system (municipal, private cooperative, nonprofit corporation�).  The second part will be a brainstorming session on things you would like to see in the area and ways of making this happen.<br><br>This workshop will hopefully be informative to both beginners and veterans in technology.  We definitely want both groups, as well as members of the public outside the web development industry, to be at the workshop.  This will make the brainstorming more fruitful.  Additionally, the workshop is just a way of having a face-to-face discussion and meeting new people; you can join the project and continue the discussion on our listserve and Facebook page:<br><br>**Listserve:** https://lists.riseup.net/www/info/internet-for-all  <br>**Facebook:** https://www.facebook.com/groups/TheInternetIsForAll/  <br>**Website with more information:** https://otherrealm.org/internet-for-all/  <br><br>####These are the goals that the currently active community members came up with and hope to achieve:  <br>**Fast** (broadband quality connectivity)  <br>**Reliable** (robust and neutral � not subject to disruptions or throttling)  <br>**Private** (meaning ensured privacy)  <br>**Our Control** (meaning that other institutions cannot impose control over functionality because it is a structure which is owned, understood and controlled by those who use it)  <br>**Empowerment for a more informed society** (providing people the tools necessary to make informed decisions and the ability to use them to contribute to society productively) "
-    },
-    {
       "id": 10,
       "order": "3/18/18 15:00",
       "57": 1,
@@ -803,20 +787,20 @@
       "description": "Modern software needs to be multi-threaded to take advantage of the increasing number of CPUs per processor.  However, multi-threaded software comes with its own additional set of unique bugs and pitfalls.  Because the timing between threads isn't deterministic, the interactions between threads, without taking the proper precautions, is also nondeterministic which leads to bugs that happen seemingly randomly.  This talk will introduce the core concepts of multi-threaded programming along with the most important design patterns, tricks and pitfalls that you should be aware of if you want to avoid the dreaded randomized bug.  "
     },
     {
-      "id": 12,
-      "order": "3/18/18 16:00",
+      "id": 4,
+      "order": "3/18/18 15:00",
       "57": 1,
-      "name": "Thinking Reactively with RxJS",
-      "speaker": "Mayank Raj",
-      "email": "mayank9856@gmail.com",
+      "name": "Internet For All",
+      "speaker": "Aaron E-J, Jamie Guerin, Thomas Grzybowski, Jim Drawe",
+      "email": "the@otherrealm.org",
       "day": "Sunday",
-      "start": "4:00PM",
-      "end": "4:45PM",
-      "room": "221",
+      "start": "3:00PM",
+      "end": "3:45PM",
+      "room": "321",
       "type": "All",
       "audience": "All",
-      "tags": "Frontend, Web",
-      "description": "Handling the flow of asynchronous data streams has always been a challenging task. Callbacks offer the quick solution. Then came promises which made it easier to write and maintain code around such data streams. Reactive programming is another take on the problem. With implementations in languages like .net, java, scala, JavaScript etc, with big names like Google, Microsoft, Netflix actively supporting and maintaining implementations of the idea in these languages, the style of programming is here to stay.<br>JS community has been appreciating the ease it brings in given the asynchronous nature of the language. Angular has adopted it as a core library, React-redux uses it. It's safe to bet that the javascript implementation, RxJS if used in the right way can help in many ways."
+      "tags": "workshop, advanced, basics, Networking",
+      "description": "What would a cooperatively run internet, built by the community, for the community, that is fast, private, neutral, and innovative, look like?  Join us in shaping the network *we* want.  <br><br>The first part of this workshop will be an informative overview of the current state of internet in Western Mass and what options there are in structuring the system (municipal, private cooperative, nonprofit corporation�).  The second part will be a brainstorming session on things you would like to see in the area and ways of making this happen.<br><br>This workshop will hopefully be informative to both beginners and veterans in technology.  We definitely want both groups, as well as members of the public outside the web development industry, to be at the workshop.  This will make the brainstorming more fruitful.  Additionally, the workshop is just a way of having a face-to-face discussion and meeting new people; you can join the project and continue the discussion on our listserve and Facebook page:<br><br>**Listserve:** https://lists.riseup.net/www/info/internet-for-all  <br>**Facebook:** https://www.facebook.com/groups/TheInternetIsForAll/  <br>**Website with more information:** https://otherrealm.org/internet-for-all/  <br><br>####These are the goals that the currently active community members came up with and hope to achieve:  <br>**Fast** (broadband quality connectivity)  <br>**Reliable** (robust and neutral � not subject to disruptions or throttling)  <br>**Private** (meaning ensured privacy)  <br>**Our Control** (meaning that other institutions cannot impose control over functionality because it is a structure which is owned, understood and controlled by those who use it)  <br>**Empowerment for a more informed society** (providing people the tools necessary to make informed decisions and the ability to use them to contribute to society productively) "
     },
     {
       "id": 17,
@@ -833,6 +817,22 @@
       "audience": "All",
       "tags": "workshop, project management, agile, drupal, scrum, waterfall",
       "description": "The rules and practices for Scrum - a simple process for managing complex projects - are few, straightforward, and easy to learn. <br><br>But Scrum's simplicity itself - its lack of prescription - can be disarming, and new practitioners often find themselves reverting to<br>old project management habits and tools and yielding lesser results.<br><br>During this presentation, I will highlight:<br> - The challenges we were facing with waterfall project management.<br>- A (very) brief overview of key concepts of agile and scrum.<br>- Why we chose agile and scrum to replace waterfall.<br>- How we introduced agile to our teams and what training looked like.<br>- Some of the immediate benefits we realized.<br>- The challenges we face (and continue to face) in our transformation.<br>- Our next steps and how we are continually improving our approach each week.<br> <br>"
+    },
+    {
+      "id": 12,
+      "order": "3/18/18 16:00",
+      "57": 1,
+      "name": "Thinking Reactively with RxJS",
+      "speaker": "Mayank Raj",
+      "email": "mayank9856@gmail.com",
+      "day": "Sunday",
+      "start": "4:00PM",
+      "end": "4:45PM",
+      "room": "221",
+      "type": "All",
+      "audience": "All",
+      "tags": "Frontend, Web",
+      "description": "Handling the flow of asynchronous data streams has always been a challenging task. Callbacks offer the quick solution. Then came promises which made it easier to write and maintain code around such data streams. Reactive programming is another take on the problem. With implementations in languages like .net, java, scala, JavaScript etc, with big names like Google, Microsoft, Netflix actively supporting and maintaining implementations of the idea in these languages, the style of programming is here to stay.<br>JS community has been appreciating the ease it brings in given the asynchronous nature of the language. Angular has adopted it as a core library, React-redux uses it. It's safe to bet that the javascript implementation, RxJS if used in the right way can help in many ways."
     },
     {
       "id": 40,
