@@ -33,6 +33,22 @@
       "description": "Please attend the welcome session for information and orientation about today's schedule."
     },
     {
+      "id": 25,
+      "order": "3/17/18 10:00",
+      "57": 1,
+      "name": "Horizontal DevOps",
+      "speaker": "Geoff St. Pierre & Rob Bayliss",
+      "email": "serundeputy@gmail.com",
+      "day": "Saturday",
+      "start": "10:00AM",
+      "end": "10:45AM",
+      "room": "135",
+      "type": "All",
+      "audience": "All",
+      "tags": "devops, agile, business",
+      "description": "Who?<br>-----<br>Beginner / Intermediate / Advanced<br><br>All concepts will be discussed at a high level. This will be talk about code and workflow examples, but your experience level will not preclude you from gaining contextual benefit and  it is probably good for a beginner to be exposed to some of the concepts and vocabulary.<br><br>* If you are a decision maker (or have or intend to influence decision making) for your agency/company<br>  * CEO<br>  * CTO<br>  * Lead Developer<br>  * People who are thinking about workflows, efficiency, and repeatability for their company<br><br>Why?<br>----<br><br>* Sanity<br>* Efficiency<br>* Stability<br>* Repeatability<br>* Sustainability<br>* Profitability<br><br><br>How?<br>----<br><br>* Documentation, Documentation, Documentation<br>* Processes (People and Machines)<br>* Communication<br>* Real time vs. Asynchronous<br>* ChatOps<br>* Email<br>* Issue Queues<br>* Tooling<br>* Automation"
+    },
+    {
       "id": 3,
       "order": "3/17/18 10:00",
       "57": 1,
@@ -79,22 +95,6 @@
       "audience": "All",
       "tags": "basics, accessibility",
       "description": "Website accessibility is a topic that is getting more attention, both from people who create code and build sites and from people who are in the market for website development services. While the interest in building accessible sites has arisen in part from a need for some organizations to comply with federal regulations in order to satisfy funding requirements, other organizations have embraced accessibility as a way to make their message available to a broader population. This presentation will provide a quick introduction of Section 508 and the WCAG 2.0 framework with its layers of guidance. Then we will take a look at some resources and tools for evaluating accessibility. If time permits, we will wrap up with some discussion among session attendees about how successful (or not) we are at achieving our accessibility goals and what is (or is not) working for each of us. This talk will not be focused on specific code for making sites accessible, but on the means for evaluating code. However, coding tips, tricks and best practices based on personal experiences can be shared by participants during the discussion."
-    },
-    {
-      "id": 76,
-      "order": "3/17/18 10:00",
-      "57": 1,
-      "name": "Hey NERDs, have you heard? - An overview of the 2018 Technical Job Market",
-      "speaker": "Meghan Fallon",
-      "email": "meghanmfallon@gmail.com",
-      "day": "Saturday",
-      "start": "10:00AM",
-      "end": "10:45AM",
-      "room": "135",
-      "type": "All",
-      "audience": "All",
-      "tags": "Job market, Interviews, Tech jobs",
-      "description": "- The current job market in this area/average salaries<br>- Types of jobs available/types of companies <br>- The difference between W2 and Independent Contractor engagements<br>- How/where to look for a job<br>- Interview preparation/Interview best practices"
     },
     {
       "id": 86,
@@ -145,20 +145,20 @@
       "description": "\"Teams form bad habits that they need to break\"<br>-Lucy Dotson<br>When IBM started its design division, it adopted and leveraged design thinking to propel a culture of design throughout its organization. The teams on the Platform used design thinking and research to answer squad specific questions. We had very little guidance on our practices. Nor did we coordinate with our developers or product managers to triangulate our efforts to arrive at a conclusion all parties agreed with.<br> <br>While we used design thinking methodologies to bring teams together for project planning workshops, the teams consistently struggled to align on a shared vision. As deadlines approached, poorly established communication protocols broke down and misunderstandings multiplied. Our relationships suffered across design, development and product management as we each pushed our own ideas of the right path forward. Design Thinking methods alone could not help us unify towards a shared vision.<br>Early in 2017, I was tapped to spin up and lead a research team to not only open a channel with our existing customers but to also shine a light on the other data sources and practices that influence each member of the tribe. Over the year, we rethought our practices to be more inclusive of the other members of the tribe with the goal of discovering and synthesizing data from both qualitative and quantitative sources together to tighten the decision and feedback loop.  <br>In this case study, I will discuss<br>-Recognize the need to defuse and reset cross-disciplinary relationships<br>-Test and implement techniques for timely communication with large, cross-disciplinary non co-located teams<br>-Rethink our approach to cross-team workshops for planning, facilitating, and debriefing<br>-Decouple from design to bring development and product management closer<br>-Discover the common desire to find, digest, and process data across the tribe"
     },
     {
-      "id": 25,
+      "id": 76,
       "order": "3/17/18 11:00",
       "57": 1,
-      "name": "Horizontal DevOps",
-      "speaker": "Geoff St. Pierre & Rob Bayliss",
-      "email": "serundeputy@gmail.com",
+      "name": "Hey NERDs, have you heard? - An overview of the 2018 Technical Job Market",
+      "speaker": "Meghan Fallon",
+      "email": "meghanmfallon@gmail.com",
       "day": "Saturday",
       "start": "11:00AM",
       "end": "11:45AM",
       "room": "135",
       "type": "All",
       "audience": "All",
-      "tags": "devops, agile, business",
-      "description": "Who?<br>-----<br>Beginner / Intermediate / Advanced<br><br>All concepts will be discussed at a high level. This will be talk about code and workflow examples, but your experience level will not preclude you from gaining contextual benefit and  it is probably good for a beginner to be exposed to some of the concepts and vocabulary.<br><br>* If you are a decision maker (or have or intend to influence decision making) for your agency/company<br>  * CEO<br>  * CTO<br>  * Lead Developer<br>  * People who are thinking about workflows, efficiency, and repeatability for their company<br><br>Why?<br>----<br><br>* Sanity<br>* Efficiency<br>* Stability<br>* Repeatability<br>* Sustainability<br>* Profitability<br><br><br>How?<br>----<br><br>* Documentation, Documentation, Documentation<br>* Processes (People and Machines)<br>* Communication<br>* Real time vs. Asynchronous<br>* ChatOps<br>* Email<br>* Issue Queues<br>* Tooling<br>* Automation"
+      "tags": "Job market, Interviews, Tech jobs",
+      "description": "- The current job market in this area/average salaries<br>- Types of jobs available/types of companies <br>- The difference between W2 and Independent Contractor engagements<br>- How/where to look for a job<br>- Interview preparation/Interview best practices"
     },
     {
       "id": 52,
