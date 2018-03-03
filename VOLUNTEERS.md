@@ -14,7 +14,7 @@ Helping to check people in
 8:00am - 9:00am 
 Checking to see if all projectors are running OK  
 
-We need people mainly on Saturday & Sunday for:
+We need people on Saturday & Sunday for:
 
 10:00am - 4:00pm 
 Running around to the rooms to see if presenters are OK  
