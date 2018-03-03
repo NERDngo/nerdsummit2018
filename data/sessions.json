@@ -10,11 +10,11 @@
       "day": "Saturday",
       "start": "8:30AM",
       "end": "9:15AM",
-      "room": "135",
+      "room": "Atrium",
       "type": "All",
       "audience": "",
       "tags": "Good morning!",
-      "description": "Assorted Pastries<br>Seasonal Hand Fruit<br>Fruit Juices and Water<br>Hot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
+      "description": "Traditional Continental<br>Serve Time: 8:30 AM to: 11:00 AM<br>Assorted Pastries <br>Seasonal Hand Fruit <br>Fruit Juices and Water <br>Hot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
     },
     {
       "id": null,
@@ -26,7 +26,7 @@
       "day": "Saturday",
       "start": "9:15AM",
       "end": "9:45AM",
-      "room": "Reception",
+      "room": "135",
       "type": "All",
       "audience": "",
       "tags": "Welcome NERDS!",
@@ -218,7 +218,7 @@
       "day": "Saturday",
       "start": "12:00PM",
       "end": "12:45PM",
-      "room": "Reception",
+      "room": "Atrium",
       "type": "All",
       "audience": "",
       "tags": "Eat!",
@@ -506,11 +506,11 @@
       "day": "Saturday",
       "start": "5:00PM",
       "end": "7:30PM",
-      "room": "Reception",
+      "room": "Campus Center",
       "type": "All",
       "audience": "",
       "tags": "Have fun!",
-      "description": "Appetizers, cash bar."
+      "description": "Appetizers, cash bar.<br>Location: The Marriott Center.<br>11th floor of the Campus Center Hotel.<br>Take elevator from the first floor of Lincoln Campus Center.<br>This is a very short walk from the event, and is on the way back to the parking garage."
     }
       ],
   "Sunday": [
@@ -524,11 +524,11 @@
       "day": "Sunday",
       "start": "8:30AM",
       "end": "9:15AM",
-      "room": "Reception",
+      "room": "Atrium",
       "type": "All",
       "audience": "",
       "tags": "Good morning!",
-      "description": "Assorted Pastries<br>Seasonal Hand Fruit<br>Fruit Juices and Water<br>Hot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
+      "description": "Traditional Continental<br>Serve Time: 8:30 AM to: 11:00 AM<br>Assorted Pastries <br>Seasonal Hand Fruit <br>Fruit Juices and Water <br>Hot Beverage Service - Columbian Coffee and Tea Assortment, decaffeinated options, served with all natural milk and creamer and an assortment of sweeteners."
     },
     {
       "id": null,
@@ -652,7 +652,7 @@
       "day": "Sunday",
       "start": "12:00PM",
       "end": "12:45PM",
-      "room": "Reception",
+      "room": "Atrium",
       "type": "All",
       "audience": "",
       "tags": "Eat!",
