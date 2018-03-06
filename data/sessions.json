@@ -563,20 +563,20 @@
       "description": "Please attend the welcome session for information and orientation about today's schedule."
     },
     {
-      "id": 26,
+      "id": 17,
       "order": "3/18/18 10:00",
       "57": 1,
-      "name": "Your Agile Lifestyle",
-      "speaker": "Eddie Dear",
-      "email": "eddie.dear@gmail.com",
+      "name": "Our Digital Transformation to Agile: Challenges and Insights",
+      "speaker": "Chris Smith & Andrea Kvasnica",
+      "email": "arlen.bartsch@opin.ca",
       "day": "Sunday",
       "start": "10:00AM",
-      "end": "10:45AM",
+      "end": "10:45PM",
       "room": "135",
       "type": "All",
       "audience": "All",
-      "tags": "Agile Lifestyle, BaseCamp, Orienteering, Coaching",
-      "description": "Do you ever feel like you are running a rat race, with no end in sight? Well that's exactly how my wife and I felt. Finally, I started applying what I was doing professionally into our every day lives. At first, it was a failure, but only because I didn't communicate the idea well enough to her. My second attempt went a lot better, and we now have multiple kanban's near our pantry as well as a couple of calendar chalk boards. Having this in our lives, has changed the way we communicate with each other, as well as making sure we aren't over committed in our lives. We also are working on implementing the way we budget into this lifestyle. Our sprints are for 1 week, so we do our sprint planning on Sundays, as well as retrospectives. We have a daily meeting when possible, but with our boards, we update them as soon as we accomplish our tasks or chores. We even have a backlog on our weekly board to pursue dreams of things like going to Disneyland, or even as simple as finding time to clean out our vehicles. <br><br>I am so passionate about this Agile Lifestyle, that I am hoping to have my book published by March of this year! I look forward to hopefully talking about this at your event this year. "
+      "tags": "workshop, project management, agile, drupal, scrum, waterfall",
+      "description": "The rules and practices for Scrum - a simple process for managing complex projects - are few, straightforward, and easy to learn. <br><br>But Scrum's simplicity itself - its lack of prescription - can be disarming, and new practitioners often find themselves reverting to<br>old project management habits and tools and yielding lesser results.<br><br>During this presentation, I will highlight:<br> - The challenges we were facing with waterfall project management.<br>- A (very) brief overview of key concepts of agile and scrum.<br>- Why we chose agile and scrum to replace waterfall.<br>- How we introduced agile to our teams and what training looked like.<br>- Some of the immediate benefits we realized.<br>- The challenges we face (and continue to face) in our transformation.<br>- Our next steps and how we are continually improving our approach each week.<br> <br>"
     },
     {
       "id": 72,
@@ -818,22 +818,7 @@
       "tags": "workshop, advanced, basics, Networking",
       "description": "What would a cooperatively run internet, built by the community, for the community, that is fast, private, neutral, and innovative, look like?  Join us in shaping the network *we* want.  <br><br>The first part of this workshop will be an informative overview of the current state of internet in Western Mass and what options there are in structuring the system (municipal, private cooperative, nonprofit corporation�).  The second part will be a brainstorming session on things you would like to see in the area and ways of making this happen.<br><br>This workshop will hopefully be informative to both beginners and veterans in technology.  We definitely want both groups, as well as members of the public outside the web development industry, to be at the workshop.  This will make the brainstorming more fruitful.  Additionally, the workshop is just a way of having a face-to-face discussion and meeting new people; you can join the project and continue the discussion on our listserve and Facebook page:<br><br>**Listserve:** https://lists.riseup.net/www/info/internet-for-all  <br>**Facebook:** https://www.facebook.com/groups/TheInternetIsForAll/  <br>**Website with more information:** https://otherrealm.org/internet-for-all/  <br><br>####These are the goals that the currently active community members came up with and hope to achieve:  <br>**Fast** (broadband quality connectivity)  <br>**Reliable** (robust and neutral � not subject to disruptions or throttling)  <br>**Private** (meaning ensured privacy)  <br>**Our Control** (meaning that other institutions cannot impose control over functionality because it is a structure which is owned, understood and controlled by those who use it)  <br>**Empowerment for a more informed society** (providing people the tools necessary to make informed decisions and the ability to use them to contribute to society productively) "
     },
-    {
-      "id": 17,
-      "order": "3/18/18 16:00",
-      "57": 1,
-      "name": "Our Digital Transformation to Agile: Challenges and Insights",
-      "speaker": "Chris Smith & Andrea Kvasnica",
-      "email": "arlen.bartsch@opin.ca",
-      "day": "Sunday",
-      "start": "4:00PM",
-      "end": "4:45PM",
-      "room": "135",
-      "type": "All",
-      "audience": "All",
-      "tags": "workshop, project management, agile, drupal, scrum, waterfall",
-      "description": "The rules and practices for Scrum - a simple process for managing complex projects - are few, straightforward, and easy to learn. <br><br>But Scrum's simplicity itself - its lack of prescription - can be disarming, and new practitioners often find themselves reverting to<br>old project management habits and tools and yielding lesser results.<br><br>During this presentation, I will highlight:<br> - The challenges we were facing with waterfall project management.<br>- A (very) brief overview of key concepts of agile and scrum.<br>- Why we chose agile and scrum to replace waterfall.<br>- How we introduced agile to our teams and what training looked like.<br>- Some of the immediate benefits we realized.<br>- The challenges we face (and continue to face) in our transformation.<br>- Our next steps and how we are continually improving our approach each week.<br> <br>"
-    },
+
     {
       "id": 12,
       "order": "3/18/18 16:00",
