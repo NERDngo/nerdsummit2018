@@ -511,3 +511,9 @@ img.lil-nerdy-sessions {
 .center {
     text-align: center;
 }
+
+.code {
+    text-align: left;
+    width: 80%;
+    margin: auto;
+}
