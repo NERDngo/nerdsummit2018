@@ -659,6 +659,22 @@
       "description": "An introduction to the mechanics of ISLE, including a demo of new systems creation and existing systems maintenance processes. ISLE separates an institution's customizations from systems software, moving those components into containers that are easily updated. This simplifies and largely automates the processes of installation and maintenance for Islandora/Fedora environments. While this workshop will focus on building a local development environment, ISLE also delivers a production-ready and security-hardened platform.<br>For institutions considering migrating from a proprietary digital repository to a Fedora-based open source collections management platform, ISLE offers an appealing jump-start alternative to Samvera's \"HykuDirect.\" For institutions already using Islandora, ISLE is expected to cut maintenance costs in half and improve overall security."
     },
     {
+      "id": 57,
+      "order": "3/18/18 11:00",
+      "57": 1,
+      "name": "How To Incorporate Gamification Principles To Improve Your Agile Development Process",
+      "speaker": "Erich S. Lee MS, MBA, PMP, SSGB, CSM",
+      "email": "eslee9430@gmail.com",
+      "day": "Sunday",
+      "start": "11:00AM",
+      "end": "11:45AM",
+      "room": "329",
+      "type": "All",
+      "audience": "All",
+      "tags": "Gamification, Agile, Scrum, Development, Professional Development",
+      "description": "The term Gamification is a fairly recent term. It was first mentioned in 2002 and became a HUGE buzzword in 2011. Since 2011 the gamification industry has exploded into a billion dollar industry and companies many companies have realizing that gamification of operational processes can have a huge impact on productive and customer engagement; all of which impact the bottom line. Majority of the monetized work in gamification has been in sales, training, and compliance. Specifically, how to build in game elements into existing processes and building platforms built with gamification principles to increase compliance, productivity, and/or sales. Even though this topics are received the most attention as of late, gamification can be used in all areas of the business including product development and client services. Moreover, we can pair agile development processes with gamification principles and realize some amazing results. In this talk we will explore what gamification is, how it works, and how to incorporate it into an agile development proces. This talk will discuss powerful psychology motivations that we, as human beings are hardwired to respond to and how to stimulate them with game elements. Next we explore how to harass this effect to improve the agile software development process. Lastly we talk about some strategies for pairing gamification principles into your agile development process to increase team velocity, productivity, and boost morale. <br><br><br>"
+    },
+    {
       "id": null,
       "order": "3/18/18 12:00",
       "57": 1,
@@ -755,20 +771,36 @@
       "description": "As a condensed version of an \"Introduction to Typography\" course, this talk will look at the basic concepts of typography at the scale of letterforms, words, paragraphs, and pages. Starting with a brief overview of the history and classification of fonts and their historical uses, we'll then look at some of the ways fonts are used for expression and to carry meaning and voice. Finally, we'll talk about resources for learning more about typography from a design and practical perspective, including recommended exercises and sources for fonts."
     },
     {
-      "id": 57,
+      "id": 12,
       "order": "3/18/18 14:00",
       "57": 1,
-      "name": "How To Incorporate Gamification Principles To Improve Your Agile Development Process",
-      "speaker": "Erich S. Lee MS, MBA, PMP, SSGB, CSM",
-      "email": "eslee9430@gmail.com",
+      "name": "Thinking Reactively with RxJS",
+      "speaker": "Mayank Raj",
+      "email": "mayank9856@gmail.com",
       "day": "Sunday",
       "start": "2:00PM",
       "end": "2:45PM",
       "room": "221",
       "type": "All",
       "audience": "All",
-      "tags": "Gamification, Agile, Scrum, Development, Professional Development",
-      "description": "The term Gamification is a fairly recent term. It was first mentioned in 2002 and became a HUGE buzzword in 2011. Since 2011 the gamification industry has exploded into a billion dollar industry and companies many companies have realizing that gamification of operational processes can have a huge impact on productive and customer engagement; all of which impact the bottom line. Majority of the monetized work in gamification has been in sales, training, and compliance. Specifically, how to build in game elements into existing processes and building platforms built with gamification principles to increase compliance, productivity, and/or sales. Even though this topics are received the most attention as of late, gamification can be used in all areas of the business including product development and client services. Moreover, we can pair agile development processes with gamification principles and realize some amazing results. In this talk we will explore what gamification is, how it works, and how to incorporate it into an agile development proces. This talk will discuss powerful psychology motivations that we, as human beings are hardwired to respond to and how to stimulate them with game elements. Next we explore how to harass this effect to improve the agile software development process. Lastly we talk about some strategies for pairing gamification principles into your agile development process to increase team velocity, productivity, and boost morale. <br><br><br>"
+      "tags": "Frontend, Web",
+      "description": "Handling the flow of asynchronous data streams has always been a challenging task. Callbacks offer the quick solution. Then came promises which made it easier to write and maintain code around such data streams. Reactive programming is another take on the problem. With implementations in languages like .net, java, scala, JavaScript etc, with big names like Google, Microsoft, Netflix actively supporting and maintaining implementations of the idea in these languages, the style of programming is here to stay.<br>JS community has been appreciating the ease it brings in given the asynchronous nature of the language. Angular has adopted it as a core library, React-redux uses it. It's safe to bet that the javascript implementation, RxJS if used in the right way can help in many ways."
+    },
+    {
+      "id": 40,
+      "order": "3/18/18 16:00",
+      "57": 1,
+      "name": "Orchestrating Serverless with Step Functions",
+      "speaker": "Matt Williams",
+      "email": "matt.williams@datadoghq.com",
+      "day": "Sunday",
+      "start": "2:00PM",
+      "end": "2:45PM",
+      "room": "321",
+      "type": "Intermediate",
+      "audience": "Intermediate",
+      "tags": "lambda, step functions, serverless, raspberry pi, nodejs, javascript",
+      "description": "Serverless and AWS Lambda specifically allows developers to build super scalable application components with minimal effort. AWS Kinesis and SQS can be used to create a universal event stream to orchestrate Lambdas into much more complex applications. Now, with AWS Step Functions we can build large distributed applications with Lambdas using visual workflows. In this session you will see how Step Functions are different from Amazon Simple Workflow, how to get started with Step Functions, and how to use them to take your Lambda-based applications to the next level. We will start with a few granular functions and stitch them up using Step Functions. As we build out the application, we'll add monitoring so that we can ensure that changes we make actually improve things rather than make them worse. You will leave the session with actionable learnings about how to use AWS Step Functions in your environment right away."
     },
     {
       "id": 10,
@@ -788,7 +820,7 @@
     },
     {
       "id": 64,
-      "order": "3/18/18 15:00",
+      "order": "3/18/18 14:00",
       "57": 1,
       "name": "Common Patterns & Pitfalls in Multi-Threading (Asynchronous) Software",
       "speaker": "Andy Klapper",
@@ -812,44 +844,11 @@
       "day": "Sunday",
       "start": "3:00PM",
       "end": "3:45PM",
-      "room": "321",
+      "room": "329",
       "type": "All",
       "audience": "All",
       "tags": "workshop, advanced, basics, Networking",
       "description": "What would a cooperatively run internet, built by the community, for the community, that is fast, private, neutral, and innovative, look like?  Join us in shaping the network *we* want.  <br><br>The first part of this workshop will be an informative overview of the current state of internet in Western Mass and what options there are in structuring the system (municipal, private cooperative, nonprofit corporation�).  The second part will be a brainstorming session on things you would like to see in the area and ways of making this happen.<br><br>This workshop will hopefully be informative to both beginners and veterans in technology.  We definitely want both groups, as well as members of the public outside the web development industry, to be at the workshop.  This will make the brainstorming more fruitful.  Additionally, the workshop is just a way of having a face-to-face discussion and meeting new people; you can join the project and continue the discussion on our listserve and Facebook page:<br><br>**Listserve:** https://lists.riseup.net/www/info/internet-for-all  <br>**Facebook:** https://www.facebook.com/groups/TheInternetIsForAll/  <br>**Website with more information:** https://otherrealm.org/internet-for-all/  <br><br>####These are the goals that the currently active community members came up with and hope to achieve:  <br>**Fast** (broadband quality connectivity)  <br>**Reliable** (robust and neutral � not subject to disruptions or throttling)  <br>**Private** (meaning ensured privacy)  <br>**Our Control** (meaning that other institutions cannot impose control over functionality because it is a structure which is owned, understood and controlled by those who use it)  <br>**Empowerment for a more informed society** (providing people the tools necessary to make informed decisions and the ability to use them to contribute to society productively) "
-    },
-
-    {
-      "id": 12,
-      "order": "3/18/18 16:00",
-      "57": 1,
-      "name": "Thinking Reactively with RxJS",
-      "speaker": "Mayank Raj",
-      "email": "mayank9856@gmail.com",
-      "day": "Sunday",
-      "start": "4:00PM",
-      "end": "4:45PM",
-      "room": "221",
-      "type": "All",
-      "audience": "All",
-      "tags": "Frontend, Web",
-      "description": "Handling the flow of asynchronous data streams has always been a challenging task. Callbacks offer the quick solution. Then came promises which made it easier to write and maintain code around such data streams. Reactive programming is another take on the problem. With implementations in languages like .net, java, scala, JavaScript etc, with big names like Google, Microsoft, Netflix actively supporting and maintaining implementations of the idea in these languages, the style of programming is here to stay.<br>JS community has been appreciating the ease it brings in given the asynchronous nature of the language. Angular has adopted it as a core library, React-redux uses it. It's safe to bet that the javascript implementation, RxJS if used in the right way can help in many ways."
-    },
-    {
-      "id": 40,
-      "order": "3/18/18 16:00",
-      "57": 1,
-      "name": "Orchestrating Serverless with Step Functions",
-      "speaker": "Matt Williams",
-      "email": "matt.williams@datadoghq.com",
-      "day": "Sunday",
-      "start": "4:00PM",
-      "end": "4:45PM",
-      "room": "321",
-      "type": "Intermediate",
-      "audience": "Intermediate",
-      "tags": "lambda, step functions, serverless, raspberry pi, nodejs, javascript",
-      "description": "Serverless and AWS Lambda specifically allows developers to build super scalable application components with minimal effort. AWS Kinesis and SQS can be used to create a universal event stream to orchestrate Lambdas into much more complex applications. Now, with AWS Step Functions we can build large distributed applications with Lambdas using visual workflows. In this session you will see how Step Functions are different from Amazon Simple Workflow, how to get started with Step Functions, and how to use them to take your Lambda-based applications to the next level. We will start with a few granular functions and stitch them up using Step Functions. As we build out the application, we'll add monitoring so that we can ensure that changes we make actually improve things rather than make them worse. You will leave the session with actionable learnings about how to use AWS Step Functions in your environment right away."
     }
   ]
 }
