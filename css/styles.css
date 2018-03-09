@@ -520,3 +520,7 @@ img.lil-nerdy-sessions {
 img.app {
     width: auto;
 }
+img.appsmall {
+    width: 200px;
+    height: auto;
+}
