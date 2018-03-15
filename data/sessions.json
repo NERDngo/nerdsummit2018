@@ -755,22 +755,6 @@
       "description": "Come learn about e-textiles while contributing to the creation of an interactive tapestry. Using the Arduino Lilypad, we will make a wall hanging that includes lights and sensors. This is an on-going project so feel free to drop by and contribute for as long as you can."
     },
     {
-      "id": 22,
-      "order": "3/18/18 13:00",
-      "57": 1,
-      "name": "Build, Don't Code",
-      "speaker": "Chris Davis",
-      "email": "christophergdavis@gmail.com",
-      "day": "Sunday",
-      "start": "1:00PM",
-      "end": "1:45PM",
-      "room": "329",
-      "type": "Beginner",
-      "audience": "Beginner",
-      "tags": "Workshop, Web app, lean startup, full stack, apis",
-      "description": "During this workshop, I will walk through building a functional application and introduce the superpowers the platform Bubble provides non-developers.<br><br>Know how to code? Even better. Learn how Bubble can expedite your development process and enable quicker iterations."
-    },
-    {
       "id": 7,
       "order": "3/18/18 14:00",
       "57": 1,
@@ -785,6 +769,22 @@
       "audience": "All",
       "tags": "design, typography, Comic Sans",
       "description": "As a condensed version of an \"Introduction to Typography\" course, this talk will look at the basic concepts of typography at the scale of letterforms, words, paragraphs, and pages. Starting with a brief overview of the history and classification of fonts and their historical uses, we'll then look at some of the ways fonts are used for expression and to carry meaning and voice. Finally, we'll talk about resources for learning more about typography from a design and practical perspective, including recommended exercises and sources for fonts."
+    },
+    {
+      "id": 22,
+      "order": "3/18/18 13:00",
+      "57": 1,
+      "name": "Build, Don't Code",
+      "speaker": "Chris Davis",
+      "email": "christophergdavis@gmail.com",
+      "day": "Sunday",
+      "start": "2:00PM",
+      "end": "2:45PM",
+      "room": "221",
+      "type": "Beginner",
+      "audience": "Beginner",
+      "tags": "Workshop, Web app, lean startup, full stack, apis",
+      "description": "During this workshop, I will walk through building a functional application and introduce the superpowers the platform Bubble provides non-developers.<br><br>Know how to code? Even better. Learn how Bubble can expedite your development process and enable quicker iterations."
     },
     {
       "id": 40,
@@ -812,7 +812,7 @@
       "day": "Sunday",
       "start": "2:00PM",
       "end": "2:45PM",
-      "room": "321",
+      "room": "329",
       "type": "All",
       "audience": "All",
       "tags": "Frontend, Web",
