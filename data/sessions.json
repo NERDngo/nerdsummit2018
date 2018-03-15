@@ -796,7 +796,7 @@
       "day": "Sunday",
       "start": "2:00PM",
       "end": "2:45PM",
-      "room": "221",
+      "room": "321",
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "lambda, step functions, serverless, raspberry pi, nodejs, javascript",
