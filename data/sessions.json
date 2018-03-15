@@ -604,7 +604,7 @@
       "day": "Sunday",
       "start": "10:00AM",
       "end": "10:45AM",
-      "room": "329",
+      "room": "321",
       "type": "Intermediate",
       "audience": "Intermediate",
       "tags": "serverless, devops, golang, architecture",
