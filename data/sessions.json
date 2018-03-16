@@ -647,16 +647,16 @@
       "order": "3/18/18 11:00",
       "57": 1,
       "name": "PANEL: Pathways to Tech",
-      "speaker": "Speakers TBA",
-      "email": "",
+      "speaker": "Facilitated group discussion",
+      "email": "kelly@nerd.ngo",
       "day": "Sunday",
       "start": "11:00AM",
       "end": "11:45AM",
       "room": "321",
       "type": "All",
-      "audience": "",
-      "tags": "career",
-      "description": "Panel dicusssion about how people got into tech."
+      "audience": "All",
+      "tags": "career, imposter syndrome",
+      "description": "Join in for a group dicusssion about how people get into a career in tech. Bring your story and hear others' stories. Share your story and learn about what others have had to overcome and how they did it. [Sharing your story is not required]"
     },
     {
       "id": 57,
