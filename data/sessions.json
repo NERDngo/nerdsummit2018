@@ -662,17 +662,17 @@
       "id": 57,
       "order": "3/18/18 11:00",
       "57": 1,
-      "name": "CANCELLED <del>How To Incorporate Gamification Principles To Improve Your Agile Development Process</del>",
-      "speaker": "Erich S. Lee MS, MBA, PMP, SSGB, CSM",
-      "email": "eslee9430@gmail.com",
+      "name": "Intro to Elixir and Phoenix",
+      "speaker": "Doug Martin",
+      "email": "doug@dougmart.in",
       "day": "Sunday",
       "start": "11:00AM",
       "end": "11:45AM",
       "room": "329",
       "type": "All",
       "audience": "All",
-      "tags": "Gamification, Agile, Scrum, Development, Professional Development",
-      "description": "The term Gamification is a fairly recent term. It was first mentioned in 2002 and became a HUGE buzzword in 2011. Since 2011 the gamification industry has exploded into a billion dollar industry and companies many companies have realizing that gamification of operational processes can have a huge impact on productive and customer engagement; all of which impact the bottom line. Majority of the monetized work in gamification has been in sales, training, and compliance. Specifically, how to build in game elements into existing processes and building platforms built with gamification principles to increase compliance, productivity, and/or sales. Even though this topics are received the most attention as of late, gamification can be used in all areas of the business including product development and client services. Moreover, we can pair agile development processes with gamification principles and realize some amazing results. In this talk we will explore what gamification is, how it works, and how to incorporate it into an agile development proces. This talk will discuss powerful psychology motivations that we, as human beings are hardwired to respond to and how to stimulate them with game elements. Next we explore how to harass this effect to improve the agile software development process. Lastly we talk about some strategies for pairing gamification principles into your agile development process to increase team velocity, productivity, and boost morale. <br><br><br>"
+      "tags": "Elixir, Phoenix, functional programming",
+      "description": "High level introduction to both the Elixir language and Phoenix, a Rails-like web development framework for Elixir."
     },
     {
       "id": null,
