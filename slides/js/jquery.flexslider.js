@@ -1111,11 +1111,11 @@
   };
 
   // Ensure the slider isn't focussed if the window loses focus.
-  $( window ).blur( function ( e ) {
-    focused = false;
-  }).focus( function ( e ) {
-    focused = true;
-  });
+  // $( window ).blur( function ( e ) {
+  //   focused = false;
+  // }).focus( function ( e ) {
+  //   focused = true;
+  // });
 
   //FlexSlider: Default Settings
   $.flexslider.defaults = {
