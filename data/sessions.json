@@ -52,7 +52,7 @@
       "id": 3,
       "order": "3/17/18 10:00",
       "57": 1,
-      "name": "Living With Drupal 6 in 2018 - A Bad Case (Study) of D8 Deficiency",
+      "name": "MOVED To SUNDAY <del>Living With Drupal 6 in 2018 - A Bad Case (Study) of D8 Deficiency</del>",
       "speaker": "Jenn Johnson & Steve Demo",
       "email": "jjohnson@ifaw.org",
       "day": "Saturday",
@@ -691,20 +691,20 @@
       "description": "Cheese Pizza <br>Personal GLUTEN FREE Cheese Pizza <br>Fruit Platter (VG, GF, DF) <br>Lemonade, Water"
     },
     {
-      "id": 30,
-      "order": "3/18/18 13:00",
+      "id": 3,
+      "order": "3/17/18 10:00",
       "57": 1,
-      "name": "CANCELLED <del>Rethinking Data with GraphQL</del>",
-      "speaker": "Ryan Chenkie",
-      "email": "ryanchenkie@gmail.com",
+      "name": "Living With Drupal 6 in 2018 - A Bad Case (Study) of D8 Deficiency",
+      "speaker": "Jenn Johnson & Steve Demo",
+      "email": "jjohnson@ifaw.org",
       "day": "Sunday",
       "start": "1:00PM",
       "end": "1:45PM",
       "room": "135",
-      "type": "All",
-      "audience": "All",
-      "tags": "javascript, graphql, data, node",
-      "description": "GraphQL puts a ton of power in the hands of client app developers. With it, all we need to do is ask our API for exactly the data we want, and we get it back in the shape we expect. While this might seem simple on the surface, it actually requires a significant shift in thinking about how data interactions happen between the client and the server. GraphQL offers a complete (and significantly better) replacement for REST, but since it's a whole new paradigm, it can sometimes be hard to approach.<br><br>In this talk, we'll take a look at what GraphQL is and what it offers developers. We'll demystify the GraphQL concepts that trip developers up most often and talk about how we can conceptualize them more simply while focusing on how to \"think in GraphQL\". To do this we�ll dive into schemas, types, queries, mutations, and more. By the end of the talk, you�ll know what is needed for creating your own GraphQL server and how to consume it from a client.<br><br>While this talk does assume some knowledge of client and server application relationships, a general knowledge of web technologies is really all that's required to benefit from it."
+      "type": "Intermediate",
+      "audience": "Intermediate",
+      "tags": "project management, drupal, migration",
+      "description": "Relieve Symptoms Now!<br><br>Are you struggling with end of life care?  Has your website left you feeling sad, prickly, and itching to upgrade?  <br><br>There is help.<br><br>While not quite a case study, we will speak through the following as if it were:<br><br>How we use Drupal<br><br>- Our challenges, expressed as symptoms, anecdotes, and relatable experiences<br><br>A timeline of our journey<br>- Redefining fixes and milestones<br>- How core business decisions and organizational structure were impacted<br><br>Learnable moments<br>- Key collaborations with wonderful vendors, industry experts and the Drupal community<br><br>Addressing barriers <br>- How we made the incredible leap in funding, structure, and confidence<br><br>This is not just your normal prescriptive session filled with best practices and lists.  Join us and learn more about how you can cure your Drupal 8 deficiency today(ish)!<br>"
     },
     {
       "id": 8,
